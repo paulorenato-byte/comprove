@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Conteúdos · Boechat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Quicksand:wght@500&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="rascunho" role="note">
+  <div class="wrap rascunho__in">
+    <p><strong>Rascunho de referência COMPROVE</strong> · não é o site final. Logo recriado de forma aproximada; paleta, fotos e textos são provisórios.</p>
+    <label class="toggle"><input type="checkbox" id="ocultar-notas"> Ocultar notas para a agência</label>
+  </div>
+</div>
+<header class="topo">
+  <div class="wrap topo__in">
+    <a href="index.html" class="marca" aria-label="Boechat, página inicial">
+      <svg class="logo" viewBox="0 0 60 46" fill="none" stroke-width="3" aria-hidden="true"><g class="l1"><rect x="3" y="13" width="24" height="7" rx="3.5"/><rect x="3" y="23" width="24" height="7" rx="3.5"/><rect x="3" y="33" width="24" height="7" rx="3.5"/></g><g class="l2"><rect x="32" y="4" width="24" height="7" rx="3.5"/><rect x="32" y="14" width="24" height="7" rx="3.5"/><rect x="32" y="24" width="24" height="7" rx="3.5"/></g></svg>
+      <span class="marca__nome" title="Recriação aproximada do logotipo atual: substituir pelo arquivo oficial">BOECHAT<small>Administração Judicial</small></span>
+    </a>
+    <nav class="menu-d" aria-label="Principal">
+        <a href="como-ajudamos.html">Como ajudamos</a>
+        <a href="giselle.html">Giselle Boechat</a>
+        <a href="conteudos.html" aria-current="page">Conteúdos</a>
+        <a href="contato.html" class="btn btn--primario">Conversa reservada</a>
+    </nav>
+    <details class="menu-m">
+      <summary>Menu</summary>
+      <nav aria-label="Principal (celular)">
+        <a href="como-ajudamos.html">Como ajudamos</a>
+        <a href="giselle.html">Giselle Boechat</a>
+        <a href="conteudos.html" aria-current="page">Conteúdos</a>
+        <a href="contato.html" class="btn btn--primario">Conversa reservada</a>
+      </nav>
+    </details>
+  </div>
+</header>
+<main>
+<section class="secao secao--branca">
+  <div class="wrap">
+    <div class="cabeca-secao">
+      <span class="olho">Conteúdos</span>
+      <h1>Para entender antes de decidir</h1>
+      <p class="lead">Artigos, vídeos e eventos sobre reestruturação de dívidas, recuperação de empresas e o patrimônio dos sócios, em linguagem direta.</p>
+    </div>
+
+    <!-- MATERIAIS E EVENTOS -->
+    <div class="grade grade--2">
+      <div class="material">
+        <div>
+          <span class="material__tipo">Próximo evento · Webinar</span>
+          <h3><span class="ph">[Título do webinar sobre tema do momento]</span></h3>
+          <p><span class="ph">[dd/mm/aaaa, 19h]</span> · online · com Giselle Boechat</p>
+        </div>
+        <a href="#" class="btn btn--primario">Quero participar</a>
+      </div>
+      <div class="material">
+        <div>
+          <span class="material__tipo">Material para baixar</span>
+          <h3><span class="ph">[Guia: 7 perguntas antes de renegociar com o banco]</span></h3>
+          <p>PDF gratuito, enviado por e-mail.</p>
+        </div>
+        <a href="#" class="btn btn--contorno">Receber o guia</a>
+      </div>
+    </div>
+    <div class="nota">Bloco "Materiais e eventos": a equipe liga e desliga cada cartão no painel do site. Sem evento ativo, o cartão some (nunca mostrar "em breve"). Inscrição e download capturam nome, e-mail, empresa e origem (UTM), como no formulário de contato.</div>
+  </div>
+</section>
+
+<section class="secao">
+  <div class="wrap">
+    <div class="filtros" role="group" aria-label="Filtrar por tema">
+      <button type="button" aria-pressed="true" data-tema="todos">Todos</button>
+      <button type="button" aria-pressed="false" data-tema="reestruturacao">Reestruturação de dívidas</button>
+      <button type="button" aria-pressed="false" data-tema="recuperacao">Recuperação judicial e extrajudicial</button>
+      <button type="button" aria-pressed="false" data-tema="patrimonio">Patrimônio dos sócios</button>
+      <button type="button" aria-pressed="false" data-tema="tributario">Tributário</button>
+      <button type="button" aria-pressed="false" data-tema="setores">Setores em foco</button>
+      <button type="button" aria-pressed="false" data-tema="videos">Vídeos</button>
+    </div>
+
+    <div class="grade grade--3 mt-1" id="lista">
+      <article class="post" data-tema="setores">
+        <div class="post__capa" style="background-image:url('https://images.unsplash.com/photo-1543958871-ccfa180a0c39?auto=format&fit=crop&w=800&q=60')"></div>
+        <div class="post__corpo">
+          <span class="post__tema">Setor em foco · <span class="ph">[setor A]</span></span>
+          <h3><span class="ph">[Título sobre o momento do setor A e o efeito nas dívidas das empresas]</span></h3>
+          <p>Tema rotativo, alinhado ao nicho prospectado no momento.</p>
+          <span class="post__meta"><span class="ph">[data]</span> · <span class="ph">[6 min]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="videos recuperacao">
+        <div class="post__capa post__capa--video" style="background-image:url('https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=800&q=60')"></div>
+        <div class="post__corpo">
+          <span class="post__tema">Vídeo · Recuperação judicial</span>
+          <h3>Vídeo 07 · Como funciona uma recuperação judicial</h3>
+          <p>Da série já gravada. Também entram aqui o Vídeo 10 (recuperação extrajudicial) e o Vídeo 08 (falência).</p>
+          <span class="post__meta"><span class="ph">[duração]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="patrimonio">
+        <div class="post__capa">[capa do artigo]</div>
+        <div class="post__corpo">
+          <span class="post__tema">Patrimônio dos sócios</span>
+          <h3><span class="ph">[Aval e fiança: o que acontece com o sócio quando a empresa renegocia]</span></h3>
+          <p>Artigo evergreen, sem nicho.</p>
+          <span class="post__meta"><span class="ph">[data]</span> · <span class="ph">[5 min]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="reestruturacao">
+        <div class="post__capa" style="background-image:url('https://images.unsplash.com/photo-1785140629691-da4294ff4d19?auto=format&fit=crop&w=800&q=60')"></div>
+        <div class="post__corpo">
+          <span class="post__tema">Reestruturação de dívidas</span>
+          <h3><span class="ph">[Negociar ou pedir recuperação? Como comparar os caminhos]</span></h3>
+          <p>Artigo evergreen.</p>
+          <span class="post__meta"><span class="ph">[data]</span> · <span class="ph">[7 min]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="videos recuperacao">
+        <div class="post__capa post__capa--video"></div>
+        <div class="post__corpo">
+          <span class="post__tema">Vídeo · Recuperação extrajudicial</span>
+          <h3>Vídeo 10 · Como funciona a recuperação extrajudicial</h3>
+          <p>Da série já gravada.</p>
+          <span class="post__meta"><span class="ph">[duração]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="tributario">
+        <div class="post__capa">[capa do artigo]</div>
+        <div class="post__corpo">
+          <span class="post__tema">Tributário</span>
+          <h3><span class="ph">[Transação tributária: quando vale incluir na reestruturação]</span></h3>
+          <p>Pode ser escrito com o escritório parceiro.</p>
+          <span class="post__meta"><span class="ph">[data]</span> · <span class="ph">[5 min]</span></span>
+        </div>
+      </article>
+      <article class="post" data-tema="setores">
+        <div class="post__capa" style="background-image:url('https://images.unsplash.com/photo-1548963670-aaaa8f73a5e3?auto=format&fit=crop&w=800&q=60')"></div>
+        <div class="post__corpo">
+          <span class="post__tema">Setor em foco · <span class="ph">[setor B]</span></span>
+          <h3><span class="ph">[Título sobre o setor B]</span></h3>
+          <p>Quando o nicho muda, entra um tema novo aqui; a estrutura do site não muda.</p>
+          <span class="post__meta"><span class="ph">[data]</span> · <span class="ph">[4 min]</span></span>
+        </div>
+      </article>
+    </div>
+    <div class="nota">
+      <p><b>Requisitos para a agência:</b></p>
+      <ul>
+        <li>Blog editável pela equipe Boechat/COMPROVE sem depender da agência (painel simples: título, tema, capa, texto, vídeo do YouTube, data).</li>
+        <li>Temas e filtros editáveis no painel. "Setores em foco" é onde entram os nichos rotativos (hoje, por exemplo, os da prospecção em curso); nenhum setor fica no menu ou nas páginas fixas.</li>
+        <li>Os vídeos já gravados entram no lançamento, para a página nunca nascer vazia: aqui ficam os voltados ao empresário (07, 08, 10 e o 03); os voltados a credores e juízes (02, 04, 05, 06, 09) vão para a área de Credores e Judiciário.</li>
+        <li>Cada artigo termina com o mesmo convite para a conversa reservada.</li>
+        <li>Links de artigos devem aceitar UTM, para usar em mensagens do LinkedIn.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="secao secao--escura cta-final">
+  <div class="wrap">
+    <h2>Prefere conversar sobre o seu caso?</h2>
+    <p class="lead">Uma conversa reservada com a Giselle Boechat.</p>
+    <a href="contato.html" class="btn btn--primario">Agendar uma conversa reservada</a>
+  </div>
+</section>
+
+<script>
+  // Filtro de demonstração (no site real, vem do CMS)
+  document.querySelectorAll('.filtros button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.querySelectorAll('.filtros button').forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+      b.setAttribute('aria-pressed', 'true');
+      var t = b.dataset.tema;
+      document.querySelectorAll('#lista .post').forEach(function (p) {
+        p.hidden = !(t === 'todos' || p.dataset.tema.split(' ').indexOf(t) > -1);
+      });
+    });
+  });
+</script>
+</main>
+<footer class="rodape">
+  <div class="wrap">
+    <div class="rodape__grade">
+      <div>
+        <a href="index.html" class="marca">
+          <svg class="logo" viewBox="0 0 60 46" fill="none" stroke-width="3" aria-hidden="true"><g class="l1"><rect x="3" y="13" width="24" height="7" rx="3.5"/><rect x="3" y="23" width="24" height="7" rx="3.5"/><rect x="3" y="33" width="24" height="7" rx="3.5"/></g><g class="l2"><rect x="32" y="4" width="24" height="7" rx="3.5"/><rect x="32" y="14" width="24" height="7" rx="3.5"/><rect x="32" y="24" width="24" height="7" rx="3.5"/></g></svg>
+          <span class="marca__nome">BOECHAT<small>Administração Judicial · Rio de Janeiro</small></span>
+        </a>
+        <p class="mt-1">Reestruturação de dívidas, recuperação de empresas e direito empresarial para sócios que decidem. Administração judicial por nomeação do juízo.</p>
+      </div>
+      <div>
+        <h4>Para empresas</h4>
+        <ul>
+          <li><a href="como-ajudamos.html">Como ajudamos</a></li>
+          <li><a href="giselle.html">Giselle Boechat</a></li>
+          <li><a href="conteudos.html">Conteúdos e eventos</a></li>
+          <li><a href="contato.html">Conversa reservada</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Escritório</h4>
+        <ul>
+          <li><a href="index.html#independencia">Política de independência</a></li>
+          <li><a href="contato.html#privacidade">Privacidade</a></li>
+          <li><a href="[link-linkedin-giselle]">LinkedIn da Giselle</a></li>
+        </ul>
+      </div>
+      <div class="rodape__discreto">
+        <h4>Administração judicial</h4>
+        <p class="mb-0">É credor, servidor do Judiciário ou procura um processo?</p>
+        <a href="credores-e-judiciario.html">Credores e Judiciário: processos, editais e documentos</a>
+      </div>
+    </div>
+    <div class="rodape__legal">
+      <span><span class="ph">[Razão social: Boechat Administração Judicial Ltda.? Ver decisões]</span> · CNPJ <span class="ph">[00.000.000/0000-00]</span></span>
+      <span>Giselle Boechat Carneiro Gonzalez, sócia administradora · OAB/RJ 181.577</span>
+      <span><span class="ph">[Endereço]</span>, Rio de Janeiro/RJ · <span class="ph">[telefone]</span> · <span class="ph">[e-mail]</span></span>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Credores e Judiciário · Boechat</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Quicksand:wght@500&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="rascunho" role="note">
+  <div class="wrap rascunho__in">
+    <p><strong>Rascunho de referência COMPROVE</strong> · não é o site final. Logo recriado de forma aproximada; paleta, fotos e textos são provisórios.</p>
+    <label class="toggle"><input type="checkbox" id="ocultar-notas"> Ocultar notas para a agência</label>
+  </div>
+</div>
+<header class="topo area-topo">
+  <div class="wrap topo__in">
+    <a href="credores-e-judiciario.html" class="marca" aria-label="Área de credores e Judiciário">
+      <svg class="logo" viewBox="0 0 60 46" fill="none" stroke-width="3" aria-hidden="true"><g class="l1"><rect x="3" y="13" width="24" height="7" rx="3.5"/><rect x="3" y="23" width="24" height="7" rx="3.5"/><rect x="3" y="33" width="24" height="7" rx="3.5"/></g><g class="l2"><rect x="32" y="4" width="24" height="7" rx="3.5"/><rect x="32" y="14" width="24" height="7" rx="3.5"/><rect x="32" y="24" width="24" height="7" rx="3.5"/></g></svg>
+      <span class="marca__nome">BOECHAT<small>Área de credores e Judiciário</small></span>
+    </a>
+    <a href="index.html" class="voltar">Site principal</a>
+  </div>
+</header>
+<main>
+<section class="secao secao--branca" style="padding-bottom:32px">
+  <div class="wrap">
+    <span class="olho">Administração judicial</span>
+    <h1>Credores e Judiciário</h1>
+    <p class="lead">Processos em que a Boechat atua como administradora judicial por nomeação do juízo: editais, decisões, relação de credores e relatórios.</p>
+
+    <input type="radio" name="variante" id="var-a" class="radio-oculto" checked>
+    <input type="radio" name="variante" id="var-b" class="radio-oculto">
+    <div class="variantes" role="group" aria-label="Variante de acesso (só no rascunho)">
+      <label for="var-a">Variante A · acesso livre</label>
+      <label for="var-b">Variante B · acesso com senha</label>
+    </div>
+    <div class="nota">Decisão em aberto da cliente. Alterne entre as duas variantes acima. Esta área fica <b>fora da porta de entrada</b>: o acesso é pelo link discreto do rodapé e por endereço direto (por exemplo, /credores), que pode ir nos editais e nas comunicações aos credores.</div>
+  </div>
+</section>
+
+<!-- ===================== VARIANTE A: ACESSO LIVRE ===================== -->
+<div class="variante-a">
+  <section class="secao" style="padding-top:32px">
+    <div class="wrap">
+      <h2>Buscar um processo</h2>
+      <form class="busca" onsubmit="event.preventDefault()">
+        <label class="sr" for="q">Nome da empresa ou número do processo</label>
+        <input id="q" class="campo" style="border:1.5px solid #BFB8AA;border-radius:8px;padding:0 16px;font:inherit" placeholder="Nome da empresa ou nº do processo">
+        <button class="btn btn--escuro">Buscar</button>
+      </form>
+
+      <div class="tabela-wrap mt-2">
+        <table class="tabela">
+          <thead><tr><th>Empresa</th><th>Tipo</th><th>Vara / Comarca</th><th>Situação</th><th></th></tr></thead>
+          <tbody>
+            <tr><td><span class="ph">[Nome da empresa]</span></td><td>Recuperação judicial</td><td><span class="ph">[ª Vara Empresarial / Rio de Janeiro]</span></td><td><span class="status">Em andamento</span></td><td><a href="#processo">Abrir</a></td></tr>
+            <tr><td><span class="ph">[Nome da empresa]</span></td><td>Falência</td><td><span class="ph">[Vara / Comarca]</span></td><td><span class="status">Em andamento</span></td><td><a href="#processo">Abrir</a></td></tr>
+            <tr><td><span class="ph">[Nome da empresa]</span></td><td>Constatação prévia</td><td><span class="ph">[Vara / Comarca]</span></td><td><span class="status">Concluída</span></td><td><a href="#processo">Abrir</a></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="processo mt-3" id="processo">
+        <div class="processo__cab">
+          <span class="publico-tag">Página do processo · pública</span>
+          <h3 class="mb-0"><span class="ph">[Nome da empresa]</span>: Recuperação judicial</h3>
+          <span style="color:var(--ink-soft);font-size:.93rem">Processo nº <span class="ph">[0000000-00.0000.8.19.0001]</span> · <span class="ph">[Vara]</span></span>
+        </div>
+        <ul class="docs">
+          <li><span><b>Editais</b> · <span class="ph">[título do documento]</span> · <span class="ph">[data]</span></span><a href="#">Abrir PDF</a></li>
+          <li><span><b>Decisões</b> · <span class="ph">[título do documento]</span> · <span class="ph">[data]</span></span><a href="#">Abrir PDF</a></li>
+          <li><span><b>Relação de credores</b> · <span class="ph">[título]</span> · <span class="ph">[data]</span></span><a href="#">Abrir PDF</a></li>
+          <li><span><b>Relatórios</b> · Relatório mensal de atividades <span class="ph">[mês/ano]</span></span><a href="#">Abrir PDF</a></li>
+          <li><span><b>Planos e assembleias</b> · <span class="ph">[título]</span></span><a href="#">Abrir PDF</a></li>
+          <li><span>Habilitação ou divergência de crédito</span><a href="#guia">Como fazer</a></li>
+        </ul>
+        <p class="mt-1 mb-0" style="font-size:.88rem;color:var(--ink-soft)">Em caso de diferença, prevalecem os atos e as publicações oficiais do processo. Contato deste processo: <span class="ph">[canal confirmado]</span> · Última atualização: <span class="ph">[data]</span></p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- ===================== VARIANTE B: ACESSO COM SENHA ===================== -->
+<div class="variante-b">
+  <section class="secao" style="padding-top:32px">
+    <div class="wrap grade grade--2" style="gap:40px">
+      <div>
+        <h2>Editais públicos</h2>
+        <p>Editais e decisões publicados continuam abertos a qualquer pessoa, sem senha.</p>
+        <ul class="docs">
+          <li><span><span class="ph">[Empresa]</span> · Edital da relação de credores</span><a href="#">PDF</a></li>
+          <li><span><span class="ph">[Empresa]</span> · Edital de convocação da assembleia</span><a href="#">PDF</a></li>
+          <li><span><span class="ph">[Empresa]</span> · Edital de falência</span><a href="#">PDF</a></li>
+        </ul>
+      </div>
+      <div class="login">
+        <h2>Área do credor</h2>
+        <p>Acompanhe o seu crédito, envie documentos e veja os relatórios completos.</p>
+        <form class="form" onsubmit="event.preventDefault()">
+          <div class="campo"><label for="doc">CPF ou CNPJ do credor</label><input id="doc" inputmode="numeric"></div>
+          <div class="campo"><label for="senha">Senha ou código do processo</label><input id="senha" type="password"></div>
+          <button class="btn btn--escuro btn--bloco">Entrar</button>
+          <a href="#" style="font-size:.92rem">Primeiro acesso / esqueci a senha</a>
+        </form>
+      </div>
+    </div>
+    <div class="wrap">
+      <div class="nota">Variante B é híbrida de propósito: credor precisa de acesso fácil a editais públicos, então o que é público fica aberto e só o acompanhamento individual pede senha. Senha total na área inteira dificultaria a vida do credor e pode conflitar com o dever de publicidade do administrador judicial. A lista de processos também precisa continuar visível para a checagem de conflito.</div>
+    </div>
+  </section>
+</div>
+
+<!-- ===================== CONTEÚDO COMUM ===================== -->
+<section class="secao secao--branca" id="guia">
+  <div class="wrap grade grade--2" style="gap:40px">
+    <div>
+      <span class="olho">Para credores</span>
+      <h2>Por onde começo?</h2>
+      <ol class="passos" style="grid-template-columns:1fr">
+        <li><h3>Localize a empresa</h3><p>Abra a página do processo e confira o número dos autos e o juízo responsável.</p></li>
+        <li><h3>Veja a relação de credores</h3><p>Confira se o seu nome, o valor e a classificação do crédito estão corretos.</p></li>
+        <li><h3>Leia os editais</h3><p>Eles informam quando um prazo começa e quais providências podem ser necessárias.</p></li>
+        <li><h3>Separe os comprovantes</h3><p>Documentos que mostram a origem e o valor do seu crédito. Não consta da relação: habilitação. Consta errado: divergência.</p></li>
+      </ol>
+      <div class="faq mt-2">
+        <details><summary>Qual o prazo para habilitar meu crédito?</summary><div>A Lei 11.101/2005 prevê um prazo inicial de 15 dias para habilitações e divergências apresentadas ao administrador judicial, contado da publicação do edital. Confira sempre o edital do seu processo.</div></details>
+        <details><summary>Preciso de advogado para habilitar?</summary><div>Na etapa administrativa (art. 7º, § 1º), o pedido é apresentado diretamente ao administrador judicial. Procedimentos judiciais posteriores exigem análise própria e podem depender de advogado.</div></details>
+        <details><summary>Perdi o prazo inicial. Ainda posso apresentar meu crédito?</summary><div>Pode existir um procedimento posterior, com regras diferentes. Consulte as publicações do processo e, se necessário, procure orientação jurídica.</div></details>
+        <details><summary>Como falo com a administradora judicial?</summary><div>O contato adequado está identificado na página de cada processo. <span class="ph">[canal]</span></div></details>
+      </div>
+      <p class="mt-2"><b>Vídeos para credores:</b> Vídeo 04 · Credor em quatro passos · Vídeo 05 · O administrador judicial · Vídeo 06 · O seu crédito na recuperação judicial · Vídeo 09 · O que é a constatação prévia</p>
+      <div>
+      </div>
+    </div>
+    <div>
+      <span class="olho">Para o Judiciário</span>
+      <h2>Administração judicial</h2>
+      <ul class="situacoes" style="grid-template-columns:1fr">
+        <li><strong>Atividades</strong><span>Recuperação judicial, falência, constatação prévia, perícias e inventariança.</span></li>
+        <li><strong>Vídeo 02</strong><span>Boas-vindas para juízes e serventias</span></li>
+        <li><strong>Currículo e equipe técnica</strong><span><a href="#">Currículo de Giselle Boechat</a> · <a href="#">Equipe técnica (jurídica, contábil e econômica)</a></span></li>
+        <li><strong>Documentos</strong><span><a href="#">Documentos institucionais</a> · <a href="#">Cadastro no tribunal</a> · <a href="#">Modelo de relatório mensal</a></span></li>
+        <li><strong>Contato institucional</strong><span><span class="ph">[e-mail a confirmar]</span></span></li>
+        <li><strong>Independência</strong><span>Empresas de processos em que atuamos como administradora judicial nunca são atendidas pela advocacia do escritório.</span></li>
+      </ul>
+      <div class="nota">Conteúdo da v0.7 (Credores, Para o Judiciário, Processos e Documentos) reaproveitado e reunido aqui, sem mudança de substância. O que muda é o lugar: sai da home e vira área própria.</div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="rodape">
+  <div class="wrap">
+    <div class="rodape__grade">
+      <div>
+        <a href="index.html" class="marca">
+          <svg class="logo" viewBox="0 0 60 46" fill="none" stroke-width="3" aria-hidden="true"><g class="l1"><rect x="3" y="13" width="24" height="7" rx="3.5"/><rect x="3" y="23" width="24" height="7" rx="3.5"/><rect x="3" y="33" width="24" height="7" rx="3.5"/></g><g class="l2"><rect x="32" y="4" width="24" height="7" rx="3.5"/><rect x="32" y="14" width="24" height="7" rx="3.5"/><rect x="32" y="24" width="24" height="7" rx="3.5"/></g></svg>
+          <span class="marca__nome">BOECHAT<small>Administração Judicial · Rio de Janeiro</small></span>
+        </a>
+        <p class="mt-1">Reestruturação de dívidas, recuperação de empresas e direito empresarial para sócios que decidem. Administração judicial por nomeação do juízo.</p>
+      </div>
+      <div>
+        <h4>Para empresas</h4>
+        <ul>
+          <li><a href="como-ajudamos.html">Como ajudamos</a></li>
+          <li><a href="giselle.html">Giselle Boechat</a></li>
+          <li><a href="conteudos.html">Conteúdos e eventos</a></li>
+          <li><a href="contato.html">Conversa reservada</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Escritório</h4>
+        <ul>
+          <li><a href="index.html#independencia">Política de independência</a></li>
+          <li><a href="contato.html#privacidade">Privacidade</a></li>
+          <li><a href="[link-linkedin-giselle]">LinkedIn da Giselle</a></li>
+        </ul>
+      </div>
+      <div class="rodape__discreto">
+        <h4>Administração judicial</h4>
+        <p class="mb-0">É credor, servidor do Judiciário ou procura um processo?</p>
+        <a href="credores-e-judiciario.html">Credores e Judiciário: processos, editais e documentos</a>
+      </div>
+    </div>
+    <div class="rodape__legal">
+      <span><span class="ph">[Razão social: Boechat Administração Judicial Ltda.? Ver decisões]</span> · CNPJ <span class="ph">[00.000.000/0000-00]</span></span>
+      <span>Giselle Boechat Carneiro Gonzalez, sócia administradora · OAB/RJ 181.577</span>
+      <span><span class="ph">[Endereço]</span>, Rio de Janeiro/RJ · <span class="ph">[telefone]</span> · <span class="ph">[e-mail]</span></span>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
