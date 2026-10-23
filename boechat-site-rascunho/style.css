@@ -127,7 +127,7 @@ body:has(#ocultar-notas:checked) .nota { display: none !important; }
 .link-seta:hover::after { transform: translateX(3px); }
 
 /* -------------------------------------------------------------- Topo */
-.topo { background: var(--surface); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
+.topo { background: var(--surface); border-bottom: 1px solid var(--line); position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; }
 .topo__in { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 68px; }
 .marca { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--brand); }
 .logo { width: 46px; height: 36px; flex: none; }

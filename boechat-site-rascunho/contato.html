@@ -50,7 +50,7 @@
     </div>
 
     <div class="contato-grade">
-      <form class="form" action="#" method="post" onsubmit="event.preventDefault(); alert('Rascunho: o envio não está ligado.');">
+      <form class="form" action="#" method="post" onsubmit="event.preventDefault(); document.getElementById('aviso-envio').hidden=false;">
         <div class="form__duas">
           <div class="campo"><label for="nome">Nome</label><input id="nome" name="nome" autocomplete="name" required></div>
           <div class="campo"><label for="empresa">Empresa</label><input id="empresa" name="empresa" autocomplete="organization" required></div>
@@ -101,6 +101,7 @@
         <p style="font-size:.88rem;color:var(--ink-soft);margin:0">O envio não representa contratação. Não anexe documentos agora: se forem necessários, indicaremos um canal seguro.</p>
         <label class="check"><input type="checkbox" required> Concordo com o uso destes dados para retorno do contato, conforme a <a href="#">política de privacidade</a>.</label>
         <button class="btn btn--primario btn--bloco" type="submit">Enviar para a Giselle</button>
+        <p id="aviso-envio" class="sigilo" hidden>Rascunho: no site real, a mensagem iria para a Giselle e você veria a página de obrigado com o prazo de retorno.</p>
 
         <div class="nota">
           <ul>
@@ -161,7 +162,7 @@
         <ul>
           <li><a href="index.html#independencia">Política de independência</a></li>
           <li><a href="contato.html#privacidade">Privacidade</a></li>
-          <li><a href="[link-linkedin-giselle]">LinkedIn da Giselle</a></li>
+          <li><a href="#" title="[link do LinkedIn da Giselle]">LinkedIn da Giselle</a></li>
         </ul>
       </div>
       <div class="rodape__discreto">
