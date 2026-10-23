@@ -18,15 +18,10 @@ Nada abaixo é parecer jurídico. São pontos para a Giselle confirmar antes de 
 
 ## Marca e regras da OAB
 
-4. **Nome do escritório.** Três nomes convivem hoje:
-   - "Boechat Advogados", no copy da agência;
-   - "Boechat Administração Judicial Ltda.", a razão social;
-   - "BOECHAT Administração Judicial", no logotipo e no domínio `boechataj.com.br`.
-
-   Perguntas:
-   - Qual nome assina a frente comercial?
-   - Existe sociedade de advogados registrada na OAB, ou a advocacia é prestada pela Giselle como pessoa física? Isso muda o rodapé e a forma de anunciar.
-   - A frente comercial fica no mesmo domínio ou ganha outro?
+4. **Nome do escritório: definido como "Boechat Advocacia".** Já aplicado no rascunho. Falta confirmar:
+   - **Registro:** a advocacia será prestada por sociedade de advogados registrada na OAB com esse nome, ou pela Giselle como pessoa física? A razão social e o CNPJ do rodapé dependem disso.
+   - **Logotipo:** o rascunho adapta o logo atual ("BOECHAT Administração Judicial") trocando a linha de baixo por "Advocacia". A versão oficial deve sair do designer.
+   - **Duas marcas lado a lado:** "Boechat Advocacia" no site comercial e "Boechat Administração Judicial" na área de credores e no domínio `boechataj.com.br`. Qual domínio o site comercial vai usar?
 5. **Número da OAB.** Paulo considera desnecessário na vitrine, e a Giselle concordou. Ponto de atenção: o Código de Ética da OAB (art. 44) pede nome e número de inscrição na publicidade do advogado. No rascunho, o número saiu da página da Giselle e ficou só na linha legal do rodapé, em letra miúda. *Giselle confirma.*
 6. **Publicidade (Provimento 205/2021 da OAB).** Conferir os textos finais: "Agendar uma conversa reservada", o formato "hoje → com orientação", as citações e os webinars. Sem promessa de resultado e sem captação indevida de clientela.
 7. **Captação de investimento / novo capital.** Precisa de validação regulatória e ética:
@@ -55,7 +50,7 @@ Nada abaixo é parecer jurídico. São pontos para a Giselle confirmar antes de 
 
 ## Sobre este rascunho
 
-19. **Logotipo:** recriado de forma aproximada (SVG) a partir da imagem enviada. A agência deve usar o arquivo oficial.
+19. **Logotipo:** recriado de forma aproximada (SVG) a partir da imagem enviada e adaptado para "Boechat Advocacia". A agência deve usar o arquivo oficial.
 20. **Paleta:** azul-petróleo e areia, tirados a olho do logotipo. São provisórios até existir manual de marca.
 21. **Fotos:** banco de imagens gratuito (Unsplash), carregadas pela internet e só ilustrativas. No site final, usar fotos próprias (escritório, Giselle, Rio).
 22. **Textos:** todos são de apoio, para mostrar tom e hierarquia. Paulo revisa, e a Boechat aprova internamente.
