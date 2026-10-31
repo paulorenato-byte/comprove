@@ -12,8 +12,8 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 
 | Passo | Bloco | Situação |
 |---|---|---|
-| a | Financeira por produto | **← estamos aqui** |
-| b | Financeira: Vini e Laiane | a fazer |
+| a | Financeira por produto | ✅ gravado em 31/10 |
+| b | Financeira: Vini e Laiane | **← estamos aqui** |
 | c | Clientes | a fazer |
 | d | Processos Internos | a fazer |
 | e | Aprendizado e Crescimento | a fazer |
@@ -25,31 +25,30 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 
 | # | Objetivo | Tipo | Origem | Situação |
 |---|---|---|---|---|
-| F1 | Faturar R$ 230 mil de 01/11/2026 a 31/03/2027 | NÚMERO | RITO | ✅ gravado |
-| F2 | Carteira atual: R$ 134,5 mil | NÚMERO | CLAUDE | 🟡 |
-| F3 | ELO: R$ 57,5 mil | NÚMERO | CLAUDE | 🟡 |
-| F4 | DUO: R$ 40,8 mil | NÚMERO | CLAUDE | 🟡 |
-| F5 | REC: 10 vendas | NÚMERO | CLAUDE | 🟡 |
-| F6 | Vini e Laiane com faturamento próprio | NÚMERO | RITO | 🔁 passo b |
+| # | Objetivo | Semáforo | Situação |
+|---|---|---|---|
+| F1 | Faturar R$ 230 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado |
+| F2 | Reter a carteira atual: R$ 134,5 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado 31/10 |
+| F3 | ELO: R$ 57,5 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado 31/10 |
+| F4 | DUO: R$ 24 mil de dez/26 a mar/27 | 🔴 vermelho | ✅ gravado 31/10 |
+| F5 | REC: 10 vendas até 31/03/2027 | 🔴 vermelho | ✅ gravado 31/10 |
+| F6 | Vini e Laiane com faturamento próprio | verde (herdado) | 🔁 passo b |
 
-**F1 — pendente:** o semáforo continua verde, herdado de agosto. A base garantida (R$ 94,5 mil) é 41% da meta, o que cai no amarelo. Mudo para amarelo?
+Todos são NÚMERO. Cada um já tem um esqueleto de OKR, aguardando montagem. F2 a F5 levam na meta "Compõe o objetivo de R$ 230 mil" (a tabela não tem campo de objetivo pai).
 
-**F2 a F5 — a proposta, já conferida com o Rito:**
+**Por que cada semáforo (decidido em 31/10):**
 
-- **F2 Carteira atual (R$ 134,5 mil).** Pela régua de porcentagem, nasce verde de qualquer jeito: o piso de R$ 94,5 mil já é 70% de R$ 134,5 mil. Proposta de semáforo por evento:
-  - Vermelho: Mello e B.Flow saem (R$ 94,5 mil).
-  - Amarelo: só a B.Flow fica (R$ 118,5 mil).
-  - Verde: contraproposta aceita (R$ 134,5 mil).
-  - Marco: o Henrique só é receita firme depois da renovação por escrito, até 26/11. Sem ela, o piso cai para R$ 81,7 mil.
-- **F3 ELO (R$ 57,5 mil).** Braz & Santos, 5 × R$ 11.500, 1º vencimento em 04/11. Está em aceite verbal no funil.
-- **F4 DUO (R$ 40,8 mil).** 3 × R$ 12 mil (dez a fev) + R$ 4,8 mil em março. O lastro parece ser a Trivicta (R$ 36 mil, em reunião, previsão 06/11). Confirmar.
-- **F5 REC (10 vendas).** Medido em vendas, não em reais, porque o preço muda em 30/11 (R$ 1.497 → R$ 1.997) e a Hotmart desconta taxa. Referência: ~R$ 15 mil. Hoje há **zero vendas reais** (as 14 linhas de `rec_vendas` são testes de 20/10). Depende do P1.
+- **F1 amarelo:** a base garantida (R$ 94,5 mil) é 41% da meta.
+- **F2 amarelo, com semáforo por evento:** vermelho se Mello e B.Flow saem (R$ 94,5 mil) · amarelo se só a B.Flow fica (R$ 118,5 mil) · verde com a contraproposta aceita (R$ 134,5 mil). Mello e B.Flow seguem em aberto. Marco: renovação do Henrique por escrito até 26/11; sem ela, o piso cai para R$ 81,7 mil.
+- **F3 amarelo:** Braz & Santos, 5 × R$ 11.500, está em aceite verbal. Passa a verde quando entrar a 1ª parcela (04/11).
+- **F4 vermelho:** nada fechado. Referência: proposta da Trivicta de 20/10 (R$ 6.000/mês contínuo, vigência de 6 meses), ainda longe do fechamento. Conta 4 parcelas, de dez a mar.
+- **F5 vermelho:** zero vendas reais (as 14 linhas de `rec_vendas` são testes). Medido em vendas, não em reais. Depende do P1.
 
-**Cenários:** soma R$ 247,8 mil · realista (contraproposta + Braz & Santos + 1 DUO, sem REC) R$ 232,8 mil · pior (sem DUO e sem REC) R$ 152 mil.
+**Régua de F3 a F5:** vermelho até 30% · amarelo de 30% a 69% · verde a partir de 70%.
+
+**Cenários:** soma R$ 231 mil · sem REC R$ 216 mil · sem DUO e sem REC R$ 192 mil · pior (Mello e B.Flow saem, sem DUO e sem REC) R$ 152 mil. A margem sobre os R$ 230 mil é de só R$ 1 mil: **o REC deixou de ser opcional.**
 
 **Fora da régua, como upside:** produto de entrada de R$ 3 mil/mês (sem decisão) e receitas pontuais (palestra, in company, tipo Kuraray).
-
-**Como gravar:** a tabela não tem campo de "objetivo pai". O vínculo com F1 vai escrito na meta ("Compõe o objetivo de R$ 230 mil"). F2 a F5 ficam nas ordens 2 a 5; F6 desce para a ordem 6. Cada um gera um esqueleto de OKR.
 
 ---
 
