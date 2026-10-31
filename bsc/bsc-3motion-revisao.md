@@ -31,7 +31,7 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | F2 | Reter a carteira atual: R$ 134,5 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado 31/10 |
 | F3 | ELO: R$ 57,5 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado 31/10 |
 | F4 | DUO: R$ 24 mil de dez/26 a mar/27 | 🔴 vermelho | ✅ gravado 31/10 |
-| F5 | REC: 10 vendas até 31/03/2027 | 🔴 vermelho | ✅ gravado 31/10 |
+| F5 | REC: R$ 15 mil de nov/26 a mar/27 | 🔴 vermelho | ✅ gravado 31/10 |
 
 
 Retirado em 31/10, por decisão do Paulo ("não precisamos de Vini e Laiane no BSC"): "Vini e Laiane com faturamento próprio", meta "R$ 10 mil/mês de média cada", prazo 31/12/2026. O objetivo e o esqueleto de OKR vazio foram apagados do Rito.
@@ -44,7 +44,9 @@ Todos são NÚMERO. Cada um já tem um esqueleto de OKR, aguardando montagem. F2
 - **F2 amarelo, com semáforo por evento:** vermelho se Mello e B.Flow saem (R$ 94,5 mil) · amarelo se só a B.Flow fica (R$ 118,5 mil) · verde com a contraproposta aceita (R$ 134,5 mil). Mello e B.Flow seguem em aberto. Marco: renovação do Henrique por escrito até 26/11; sem ela, o piso cai para R$ 81,7 mil.
 - **F3 amarelo:** Braz & Santos, 5 × R$ 11.500, está em aceite verbal. Passa a verde quando entrar a 1ª parcela (04/11).
 - **F4 vermelho:** nada fechado. Referência: proposta da Trivicta de 20/10 (R$ 6.000/mês contínuo, vigência de 6 meses), ainda longe do fechamento. Conta 4 parcelas, de dez a mar.
-- **F5 vermelho:** zero vendas reais (as 14 linhas de `rec_vendas` são testes). Medido em vendas, não em reais. Depende do P1.
+- **F5 vermelho:** zero vendas reais (as 14 linhas de `rec_vendas` são testes). Medido em reais, como os demais produtos: ~10 vendas, já descontada a taxa da Hotmart. A quantidade de clientes fica em Clientes (C-REC). Depende do P1.
+
+**Regra conceitual (Paulo, 31/10):** Financeira mede reais; Clientes mede número de clientes, ainda que seja redundante.
 
 **Régua de F3 a F5:** vermelho até 30% · amarelo de 30% a 69% · verde a partir de 70%.
 
@@ -56,12 +58,17 @@ Todos são NÚMERO. Cada um já tem um esqueleto de OKR, aguardando montagem. F2
 
 ## 2. Clientes (passo c)
 
-**Hoje no Rito (🔁), com nomes de produto antigos:** BPO · REC (5 por mês) · Mentoria · Comprove Operacional · MKT Estratégico · Planejamento Estratégico. Decidir: arquivar ou reescrever pela linha REC / DUO / ELO.
+**Regra:** cada produto da Financeira tem aqui o seu par em número de clientes.
 
 | # | Objetivo | Tipo | Origem | Situação |
 |---|---|---|---|---|
-| C1 | Clientes por produto (quantos ELO, DUO, REC e carteira retida) | NÚMERO | CLAUDE | ⬜ par da Financeira |
-| C2 | Primeiro cliente fora da advocacia | NÚMERO | PAULO | ⬜ |
+| C-REC | REC: 10 clientes até 31/03/2027 (vermelho) | NÚMERO | PAULO | ✅ gravado 31/10 (reescreveu o antigo "REC: 5 vendidos por mês") |
+| C-CART | Carteira: 5 clientes de consultoria ativos em 31/03/2027 | NÚMERO | CLAUDE | 🟡 |
+| C-ELO | ELO: 1 cliente até 31/03/2027 (Braz & Santos) | NÚMERO | CLAUDE | 🟡 |
+| C-DUO | DUO: 1 cliente até 31/03/2027 (referência: Trivicta, que também seria o primeiro cliente fora da advocacia) | NÚMERO | CLAUDE | 🟡 |
+| C2 | Primeiro cliente fora da advocacia | NÚMERO | PAULO | 🟡 pode ficar dentro do C-DUO |
+
+**Ainda no Rito, com produtos antigos (🔁):** BPO · Mentoria · Comprove Operacional · MKT Estratégico · Planejamento Estratégico. Nenhum tem resultado-chave nem roadmap. Proposta: apagar os 5.
 | C3 | Audiência: inscritos e visualizações no YouTube, seguidores no LinkedIn | NÚMERO | PAULO | ⬜ |
 | C4 | Visibilidade: publicações na imprensa e palestras | NÚMERO | PAULO + CLAUDE | ⬜ |
 
