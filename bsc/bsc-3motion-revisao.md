@@ -13,8 +13,8 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | Passo | Bloco | Situação |
 |---|---|---|
 | a | Financeira por produto | ✅ gravado em 31/10 |
-| b | Financeira: Vini e Laiane | **← estamos aqui** |
-| c | Clientes | a fazer |
+| b | Financeira: Vini e Laiane | ✅ objetivo retirado do BSC em 31/10 |
+| c | Clientes | **← estamos aqui** |
 | d | Processos Internos | a fazer |
 | e | Aprendizado e Crescimento | a fazer |
 | f | Departamento de cada objetivo, OKRs e roadmaps | a fazer |
@@ -32,7 +32,9 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | F3 | ELO: R$ 57,5 mil de nov/26 a mar/27 | 🟡 amarelo | ✅ gravado 31/10 |
 | F4 | DUO: R$ 24 mil de dez/26 a mar/27 | 🔴 vermelho | ✅ gravado 31/10 |
 | F5 | REC: 10 vendas até 31/03/2027 | 🔴 vermelho | ✅ gravado 31/10 |
-| F6 | Vini e Laiane com faturamento próprio | verde (herdado) | 🔁 passo b |
+
+
+Retirado em 31/10, por decisão do Paulo ("não precisamos de Vini e Laiane no BSC"): "Vini e Laiane com faturamento próprio", meta "R$ 10 mil/mês de média cada", prazo 31/12/2026. O objetivo e o esqueleto de OKR vazio foram apagados do Rito.
 
 Todos são NÚMERO. Cada um já tem um esqueleto de OKR, aguardando montagem. F2 a F5 levam na meta "Compõe o objetivo de R$ 230 mil" (a tabela não tem campo de objetivo pai).
 
