@@ -125,7 +125,7 @@ Gravado em 01/11/2026 (17 ativos). Todos são PROCESSO (viram roadmap) e começa
 - **5:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
 - **6:** pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado.
 - **8:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
-- **9:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT.
+- **9:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT. Em discussão: pode ser substituído pelo pacote fechado (objetivo 2), que é mais completo e faz mais sentido.
 - **10:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
 - **11:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
 - **14:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
