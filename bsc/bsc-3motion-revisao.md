@@ -75,7 +75,9 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 | C3 | DUO: 3 clientes ativos em 31/03/2027 | 🔴 vermelho | vermelho 0 · amarelo 1 a 2 · verde 3 |
 | C4 | REC: 10 clientes até 31/03/2027 | 🔴 vermelho | vermelho até 3 · amarelo 4 a 6 · verde 7+ |
 | C5 | Outros nichos: 5 clientes fora da advocacia ativos em 31/03/2027 | 🟡 amarelo | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
+| C6 | REC em instituições: 10 vendas para instituições jurídicas e afins até 31/03/2027 | 🔴 vermelho | vermelho até 3 · amarelo 4 a 6 · verde 7+ |
 
+- **C6 (Paulo, 01/11):** venda do REC em pacotes (10 ou 20 licenças) para OABs, caixas e associações de advogados, institutos, comissões, faculdades e afins, buscando os líderes dessas instituições. A instituição pode ficar com uma parte das vendas. Conta vendas (pacotes). OKR "Instituições · REC" gravado: instituições mapeadas → líderes contatados → respostas → reuniões → propostas → pacotes vendidos.
 - **C5 (Paulo, 01/11):** os 2 de hoje (B.Flow e Kuraray) + 3 novos, de qualquer produto. Conta clientes e não amarra faturamento. Hoje há 2 ativos.
 
 - **C1:** Boechat, Coelho e Morello, Henrique Gaspar, Mello e B.Flow. A Cassys encerra em novembro e não conta.
@@ -102,22 +104,23 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 |---|---|---|
 | 1 | Realizar o rito semanal da 3Motion toda segunda às 19h, lendo BSC, OKRs, roadmaps e funil, por 4 semanas seguidas, até 30/11/2026 | 6 etapas · 2 concluídas |
 | 2 | Testar a venda do REC em LinkedIn, e-mail e Instagram com uma nova promessa, medir a conversão de cada canal e decidir escalar ou abandonar cada um até 15/12/2026 | 10 etapas |
-| 3 | Ter a pauta de marketing aprovada e rodando, com tema semanal ligado às ofertas comerciais, gravação de vídeos a cada 15 dias e a primeira semana publicada, até 15/11/2026 | 7 etapas |
-| 4 | Ter o pacote fechado de conteúdo e prospecção com IA pronto para vender, com escopo, preço e proposta definidos e operação testada, até 20/11/2026 | 6 etapas |
-| 5 | Definir as metas mensais de faturamento e de clientes de novembro a março e fazer o fechamento de cada mês no Rito até o 5º dia útil do mês seguinte, com o fechamento de novembro lido no rito de 07/12/2026 | 4 etapas |
-| 6 | Ter o perfil da 3Motion no Google Meu Negócio verificado e completo, com 4 posts publicados, avaliações pedidas a 5 clientes e o Search Console configurado no site, até 30/11/2026 | 7 etapas |
-| 7 | Ter o calendário de webinars e workshops de novembro a março, com um evento por mês, e realizar o evento de novembro até 30/11/2026 | 6 etapas · evento de novembro = sala aberta do REC (27/11) |
-| 8 | Definir os departamentos da 3Motion, cada um com responsável e rotina, e atribuir um departamento dono a cada objetivo do BSC até 31/12/2026 | 5 etapas |
-| 9 | Desenhar o processo de experiência do cliente (onboarding, CX e CS) e aplicá-lo no primeiro cliente novo de ELO ou DUO até 31/01/2027 | 6 etapas · piloto possível na Braz & Santos |
-| 10 | Decidir se o COMPROVE MKT existe como produto próprio ou é substituído pelo pacote fechado e, se existir, ter escopo, preço e proposta prontos até 31/01/2027 | 6 etapas |
-| 11 | Lançar o COMPROVE Benchmarking, uma rede de escritórios com mensalidade e encontros quinzenais, com a primeira turma aberta e o primeiro encontro marcado até 28/02/2027 | 6 etapas |
-| 12 | Ter a esteira de produtos da 3Motion documentada até 31/01/2027, com produto, público, preço e ordem de compra, incluindo os produtos para outros nichos, o produto de entrada e os novos treinamentos | 6 etapas |
-| 13 | Ter o calendário de eventos do setor de novembro a março, com inscrição em pelo menos 2 eventos como participante ou palestrante, até 31/12/2026 | 5 etapas |
-| 14 | Ter o press kit pronto, uma lista de 30 veículos e jornalistas com contato e 10 pautas enviadas pela assessoria de imprensa feita com o Claude até 31/01/2027 | 6 etapas |
-| 15 | Colocar no ar o site 3motion.com.br como marketplace dos produtos da 3Motion, com o COMPROVE em destaque, até 28/02/2027 | 6 etapas |
-| 16 | Colocar no ar o canal do YouTube com grade de programação semanal, um programa fixo por dia para advogados e negócios, e publicar 2 semanas seguidas conforme a grade até 15/12/2026 | 6 etapas |
-| 17 | Protocolar no INPI os pedidos de registro das marcas COMPROVE e 3Motion até 31/12/2026 | 6 etapas |
-| 18 | Ter a apresentação institucional da 3Motion pronta, juntando a apresentação do COMPROVE para clientes e o conteúdo do site, e usá-la em pelo menos 1 reunião até 31/03/2027 | 6 etapas |
+| 3 | Criar e colocar em uso o modelo de prospecção de instituições jurídicas e afins para vender o COMPROVE REC em pacotes, com os primeiros 10 líderes contatados, até 06/11/2026 | 6 etapas · sustenta o C6 |
+| 4 | Ter a pauta de marketing aprovada e rodando, com tema semanal ligado às ofertas comerciais, gravação de vídeos a cada 15 dias e a primeira semana publicada, até 15/11/2026 | 7 etapas |
+| 5 | Ter o pacote fechado de conteúdo e prospecção com IA pronto para vender, com escopo, preço e proposta definidos e operação testada, até 20/11/2026 | 6 etapas |
+| 6 | Definir as metas mensais de faturamento e de clientes de novembro a março e fazer o fechamento de cada mês no Rito até o 5º dia útil do mês seguinte, com o fechamento de novembro lido no rito de 07/12/2026 | 4 etapas |
+| 7 | Ter o perfil da 3Motion no Google Meu Negócio verificado e completo, com 4 posts publicados, avaliações pedidas a 5 clientes e o Search Console configurado no site, até 30/11/2026 | 7 etapas |
+| 8 | Ter o calendário de webinars e workshops de novembro a março, com um evento por mês, e realizar o evento de novembro até 30/11/2026 | 6 etapas · evento de novembro = sala aberta do REC (27/11) |
+| 9 | Definir os departamentos da 3Motion, cada um com responsável e rotina, e atribuir um departamento dono a cada objetivo do BSC até 31/12/2026 | 5 etapas |
+| 10 | Desenhar o processo de experiência do cliente (onboarding, CX e CS) e aplicá-lo no primeiro cliente novo de ELO ou DUO até 31/01/2027 | 6 etapas · piloto possível na Braz & Santos |
+| 11 | Decidir se o COMPROVE MKT existe como produto próprio ou é substituído pelo pacote fechado e, se existir, ter escopo, preço e proposta prontos até 31/01/2027 | 6 etapas |
+| 12 | Lançar o COMPROVE Benchmarking, uma rede de escritórios com mensalidade e encontros quinzenais, com a primeira turma aberta e o primeiro encontro marcado até 28/02/2027 | 6 etapas |
+| 13 | Ter a esteira de produtos da 3Motion documentada até 31/01/2027, com produto, público, preço e ordem de compra, incluindo os produtos para outros nichos, o produto de entrada e os novos treinamentos | 6 etapas |
+| 14 | Ter o calendário de eventos do setor de novembro a março, com inscrição em pelo menos 2 eventos como participante ou palestrante, até 31/12/2026 | 5 etapas |
+| 15 | Ter o press kit pronto, uma lista de 30 veículos e jornalistas com contato e 10 pautas enviadas pela assessoria de imprensa feita com o Claude até 31/01/2027 | 6 etapas |
+| 16 | Colocar no ar o site 3motion.com.br como marketplace dos produtos da 3Motion, com o COMPROVE em destaque, até 28/02/2027 | 6 etapas |
+| 17 | Colocar no ar o canal do YouTube com grade de programação semanal, um programa fixo por dia para advogados e negócios, e publicar 2 semanas seguidas conforme a grade até 15/12/2026 | 6 etapas |
+| 18 | Protocolar no INPI os pedidos de registro das marcas COMPROVE e 3Motion até 31/12/2026 | 6 etapas |
+| 19 | Ter a apresentação institucional da 3Motion pronta, juntando a apresentação do COMPROVE para clientes e o conteúdo do site, e usá-la em pelo menos 1 reunião até 31/03/2027 | 6 etapas |
 
 **Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; vendas medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
 
