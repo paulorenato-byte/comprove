@@ -9,8 +9,9 @@ Tarefa combinada com o Claude Code em 01/11/2026: ligar TODOS os meus projetos d
 
 === PARTE 0. QUAIS PROJETOS VOCÊ ALCANÇA ===
 0.1 Liste as suas ferramentas de projeto (por exemplo project_list, project_read, project_write, listagem de conversas) e diga quais existem nesta conversa.
-0.2 Liste TODOS os meus projetos do Cowork que você consegue ver (nome e id). Para cada um, teste se consegue LER (os docs ou instruções) e se consegue ESCREVER (um doc). Anote o resultado: lê sim/não, escreve sim/não.
-0.3 Se você só enxerga este projeto, diga isso claramente e siga com ele. Os demais eu faço à mão.
+0.2 Liste TODOS os meus projetos do Cowork que você consegue ver (são cerca de 28): nome, id e data da última atividade (última conversa ou doc alterado), se conseguir ver. Para cada um, teste se consegue LER (os docs ou instruções) e se consegue ESCREVER (um doc). Anote o resultado: lê sim/não, escreve sim/não.
+0.3 Classifique cada projeto: ATIVO (atividade nas últimas 6 semanas) ou PARADO. Projeto PARADO não precisa de inventário detalhado: cadastre-o como UMA frente só (estado 'pausada', bola_com 'paulo', proximo_passo "Paulo decide: retomar ou encerrar", onde_mora = nome do projeto do Cowork).
+0.4 Se você só enxerga este projeto, diga isso claramente e siga com ele. Nesse caso, me devolva a lista dos nomes de projetos que você souber (mesmo sem acesso), para eu colar a versão curta só nos ATIVOS.
 
 === PARTE 1. RECRIAR A REVISÃO DIÁRIA COM CONECTORES (uma vez só, vale para a conta toda) ===
 O Claude Code criou a tarefa agendada trig_01AEQDXysNABHzfxvejj1gBD, mas ela ficou sem conectores.
@@ -20,7 +21,7 @@ O Claude Code criou a tarefa agendada trig_01AEQDXysNABHzfxvejj1gBD, mas ela fic
 1.4 Deu certo: update_trigger em trig_01AEQDXysNABHzfxvejj1gBD com enabled=false (não apague). Depois fire_trigger na nova. Espere uns 5 minutos e confira: select quando, left(fez,300) from central_diario where agente='rotina' order by quando desc limit 1; (tem de existir linha de agora, e o Paulo tem de receber um WhatsApp).
 
 === PARTE 2. REGRA PERMANENTE EM CADA PROJETO ===
-Para CADA projeto em que você consegue escrever (Parte 0), grave o texto abaixo: nas instruções do projeto, se você tiver como editá-las; se não tiver, como doc do projeto "claude/REGRA-central-de-frentes-2026-11-01.md". Anote, projeto a projeto, onde ficou gravada. A partir de agora, siga essa regra em toda conversa.
+Para CADA projeto ATIVO em que você consegue escrever (Parte 0), grave o texto abaixo (projeto PARADO não precisa: se for retomado, a regra entra nele): nas instruções do projeto, se você tiver como editá-las; se não tiver, como doc do projeto "claude/REGRA-central-de-frentes-2026-11-01.md". Anote, projeto a projeto, onde ficou gravada. A partir de agora, siga essa regra em toda conversa.
 --- início da regra ---
 CENTRAL DE FRENTES. Memória compartilhada entre Paulo, Claude Code, Cowork e rotinas, no Supabase (project_id dutantiolnlidwxdgdyy). Vale para TODOS os projetos do Paulo, não só o COMPROVE.
 - central_frentes: uma linha por projeto/subprojeto em andamento. Campos: titulo, area (cliente/comprove/pessoal/infra), cliente_id, frente_mae_id, estado (ativa/aguardando/pausada/concluida/abandonada), bola_com (paulo/cowork/code/rotina/terceiro), proximo_passo, prazo, prioridade (1 alta a 3 baixa), onde_mora.
@@ -36,7 +37,7 @@ CENTRAL DE FRENTES. Memória compartilhada entre Paulo, Claude Code, Cowork e ro
 
 === PARTE 3. INVENTÁRIO DE TODOS OS PROJETOS QUE VOCÊ LÊ ===
 3.1 Para não duplicar, leia o que já existe: select id, area, titulo, estado, bola_com from central_frentes order by area, titulo; e select id, nome, slug, tipo from cliente order by nome;
-3.2 Para CADA projeto que você consegue ler (Parte 0), levante as frentes das últimas 6 semanas: docs, instruções, conversas, pastas de trabalho no MacBook ligadas a ele e rotinas que você criou. Para cada frente: ainda está em andamento, parada esperando alguém, ou já acabou?
+3.2 Para CADA projeto ATIVO que você consegue ler (Parte 0), levante as frentes das últimas 6 semanas: docs, instruções, conversas, pastas de trabalho no MacBook ligadas a ele e rotinas que você criou. Para cada frente: ainda está em andamento, parada esperando alguém, ou já acabou?
 3.3 Área: 'pessoal' para assuntos pessoais e familiares do Paulo (casa, saúde, finanças pessoais, estudos, viagens etc.), 'cliente' se for de um cliente cadastrado (use o cliente_id), 'comprove' para o negócio COMPROVE/3Motion, 'infra' para ferramentas e sistemas. Na dúvida entre pessoal e outra área, use 'pessoal'.
 3.4 Cadastre UMA linha por frente (projeto ou subprojeto relevante, nada de tarefa miúda), com o nome do projeto do Cowork no começo do título quando ajudar a reconhecer (ex.: "Casa · reforma da cozinha"), e o nome do projeto do Cowork em onde_mora:
 insert into central_frentes (area, cliente_id, frente_mae_id, titulo, objetivo, estado, bola_com, proximo_passo, prazo, prioridade, onde_mora, origem, ultimo_movimento_em) values (..., 'cowork', <data aproximada do último movimento real>) on conflict do nothing;
@@ -45,5 +46,5 @@ Frente que parece abandonada: estado 'pausada' e proximo_passo "Paulo decide: re
 
 === FIM ===
 Grave no diário uma linha por parte (agente 'cowork'; frente de título 'Central de frentes%' para as Partes 0, 1 e 2; frente 'Inventário das frentes do Cowork' para a Parte 3). Na linha da Parte 3, use precisa_do_paulo=true e pedido_ao_paulo 'Revisar as frentes pausadas: retomar ou encerrar'. Na linha da Parte 0, liste os projetos que você NÃO alcançou.
-Me responda com: (0) projetos alcançados e NÃO alcançados; (1) id da nova revisão diária, conectores gravados e resultado do teste; (2) onde a regra ficou gravada em cada projeto; (3) frentes cadastradas por projeto (título, área, estado, com quem está a bola).
+Me responda com: (0) tabela dos projetos: nome, ATIVO/PARADO, lê, escreve, e quais NÃO alcançou; (1) id da nova revisão diária, conectores gravados e resultado do teste; (2) onde a regra ficou gravada em cada projeto; (3) frentes cadastradas por projeto (título, área, estado, com quem está a bola).
 ```
