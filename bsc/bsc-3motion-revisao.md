@@ -45,7 +45,7 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 |---|---|---|
 | Nov | R$ 49,2 mil | base contratada (R$ 37,7 mil) + Braz & Santos |
 | Dez | R$ 43,2 mil | sai a Cassys; Mello e B.Flow pela contraproposta de R$ 10 mil; entra o Reis |
-| Jan | R$ 52,2 mil | entra o Kuraray (R$ 9 mil) |
+| Jan | R$ 52,2 mil | Kuraray renova como mensal (R$ 9 mil) |
 | Fev | R$ 100 mil | + ~R$ 48 mil em contratos novos |
 | Mar | R$ 100 mil | idem |
 
@@ -54,7 +54,7 @@ Régua: vermelho até R$ 102 mil · amarelo de R$ 102 a 238 mil · verde a parti
 **Composição por produto:**
 
 - **F2 Carteira (R$ 134,5 mil):** semáforo por evento: vermelho se Mello e B.Flow saem (R$ 94,5 mil) · amarelo se só a B.Flow fica (R$ 118,5 mil) · verde com a contraproposta (R$ 134,5 mil). Marco: renovação do Henrique por escrito até 26/11.
-- **F3 ELO (R$ 160,5 mil):** Braz & Santos 5 × R$ 11.500 = R$ 57,5 mil · Reis ~R$ 7.500/mês de dez a mar = R$ 30 mil (querem contratar, mas não têm orçamento para os R$ 12,8 mil da proposta) · Kuraray R$ 9 mil/mês de jan a mar = R$ 27 mil · 2 ELO novos a partir de fev = R$ 46 mil.
+- **F3 ELO (R$ 160,5 mil):** Braz & Santos 5 × R$ 11.500 = R$ 57,5 mil · Reis ~R$ 7.500/mês de dez a mar = R$ 30 mil (querem contratar, mas não têm orçamento para os R$ 12,8 mil da proposta) · Kuraray (cliente ativo, contrato à vista até dez/26) renovando como ELO a R$ 9 mil/mês de jan a mar = R$ 27 mil · 2 ELO novos a partir de fev = R$ 46 mil.
 - **F4 DUO (R$ 36 mil):** 3 DUO novos a partir de fev, a R$ 6 mil/mês (referência de preço: proposta da Trivicta, que ainda é só proposta).
 - **F5 REC (R$ 15 mil):** ~10 vendas, já descontada a taxa da Hotmart. Zero vendas reais até 31/10.
 
@@ -74,9 +74,9 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 | C2 | ELO: 5 clientes ativos em 31/03/2027 | 🔴 vermelho | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
 | C3 | DUO: 3 clientes ativos em 31/03/2027 | 🔴 vermelho | vermelho 0 · amarelo 1 a 2 · verde 3 |
 | C4 | REC: 10 clientes até 31/03/2027 | 🔴 vermelho | vermelho até 3 · amarelo 4 a 6 · verde 7+ |
-| C5 | Outros nichos: 5 clientes fora da advocacia ativos em 31/03/2027 | 🔴 vermelho | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
+| C5 | Outros nichos: 5 clientes fora da advocacia ativos em 31/03/2027 | 🟡 amarelo | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
 
-- **C5 (Paulo, 01/11):** os 2 de hoje (B.Flow e Kuraray, que volta em janeiro) + 3 novos, de qualquer produto. Conta clientes e não amarra faturamento. Hoje há 1 ativo (B.Flow).
+- **C5 (Paulo, 01/11):** os 2 de hoje (B.Flow e Kuraray) + 3 novos, de qualquer produto. Conta clientes e não amarra faturamento. Hoje há 2 ativos.
 
 - **C1:** Boechat, Coelho e Morello, Henrique Gaspar, Mello e B.Flow. A Cassys encerra em novembro e não conta.
 - **C2:** Braz & Santos, Reis, Kuraray + 2 novos. Reescreveu o antigo "BPO" (BPO = ELO).
@@ -88,7 +88,7 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 - **MKT Estratégico:** ainda não é produto → vai para Processos Internos (P11).
 - **Planejamento Estratégico:** produto de entrada (sessão de BSC, ~R$ 297) → vai para Processos Internos (P12).
 
-**Expansão para outros nichos já tem prova:** B.Flow (cliente hoje) e Kuraray (volta como ELO em janeiro). A Trivicta ainda é proposta. A meta de expansão é o C5.
+**Expansão para outros nichos já tem prova:** B.Flow e Kuraray, ambos clientes hoje. O Kuraray tem um ambiente Rito por departamento; o contrato atual foi pago à vista e vai até dezembro; a partir de janeiro, renovação mensal como ELO. A Trivicta ainda é proposta. A meta de expansão é o C5.
 
 **Ainda sem objetivo:** audiência no YouTube (falta o número de inscritos de hoje) e visibilidade na imprensa (depois do P7).
 
@@ -117,7 +117,7 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 - **P1:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão medida por canal, decisão final de escalar ou abandonar. Sem tráfego pago.
 - **P2:** refazer a pauta de marketing. Pilares: palco (música), quadra (handebol), experiência como consumidor e método (técnico e curto). Casos de escritório só como tempero. **As analogias são o tema; o episódio é sempre um real que você traz. Nada inventado.** [CLAUDE] Gravação em lote (um dia a cada 15 dias) e mineração das 62 aulas do REC em vídeos longos e cortes.
 - **P3:** parte do conteúdo menos técnica, com histórias narradas e animação, no estilo do canal de aviação.
-- **P4:** COMPROVE dentro do site da 3Motion como linha jurídica, com espaço para outros nichos (B.Flow e Kuraray já provam). Pode absorver o antigo "Atualizar o site para Marketplace".
+- **P4:** COMPROVE dentro do site da 3Motion como linha jurídica, com espaço para outros nichos (B.Flow e Kuraray, clientes ativos, já provam). Pode absorver o antigo "Atualizar o site para Marketplace".
 - **P5:** mistura da apresentação para clientes com o site. Depende de P4.
 - **P6:** liderança, negócios em geral, administração do tempo. Já tem conversa paralela: integrar, não duplicar. [CLAUDE] Negociação, atendimento ao cliente, OKR para PMEs, comunicação e oratória, produtividade com IA; reativar a rede da época da franquia como canal.
 - **P7:** contatos, veículos, portfólio. [CLAUDE] Press kit, bio em 3 tamanhos (música, handebol, teatro), palestras e in company para OABs, Sebrae e associações. Pode absorver a antiga "agenda de eventos".
