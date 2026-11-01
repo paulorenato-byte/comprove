@@ -24,8 +24,8 @@ Migrações: `central_frentes_diario_v1`, `central_hoje_filtra_clientes_inativos
 
 ## Arquivos
 
-- [`COLAR-NO-COWORK.md`](COLAR-NO-COWORK.md): **texto único** para colar no Cowork (revisão diária + regra permanente + inventário). Os três arquivos abaixo são as partes separadas.
-- [`COLAR-NOS-OUTROS-PROJETOS.md`](COLAR-NOS-OUTROS-PROJETOS.md): versão curta (regra + inventário) para cada um dos outros projetos do Cowork.
+- [`COLAR-NO-COWORK.md`](COLAR-NO-COWORK.md): **texto único** para colar no Cowork: descobre os projetos alcançáveis, arruma a revisão diária, instala a regra e faz o inventário de todos. Os três arquivos abaixo são as partes separadas.
+- [`COLAR-NOS-OUTROS-PROJETOS.md`](COLAR-NOS-OUTROS-PROJETOS.md): versão curta (regra + inventário), só para os projetos que o texto único não alcançar.
 - [`PROTOCOLO-COWORK.md`](PROTOCOLO-COWORK.md): regra permanente para colar nas instruções do Cowork.
 - [`COMANDO-INVENTARIO-COWORK.md`](COMANDO-INVENTARIO-COWORK.md): comando único para o Cowork cadastrar as frentes dele.
 - [`REVISAO-DIARIA-PROMPT.md`](REVISAO-DIARIA-PROMPT.md): texto da rotina de revisão diária (dias úteis, 7h27).
