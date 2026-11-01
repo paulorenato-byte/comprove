@@ -164,8 +164,14 @@ Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começa
 | 4 | E-mail (Snov.io) · REC | REC 10 clientes | qualificação → envios → aberturas → clique → respostas → diagnóstico → venda | 50 qualificados |
 | 5 | Instagram · REC | REC 10 clientes | perfis → DMs → respostas → diagnóstico → venda | 75 DMs |
 | 6 | LinkedIn · Escolas e outros nichos | Outros nichos 5 clientes | igual ao OKR 1 | 10 leads |
+| 7 | Marketing comercial · ELO e DUO | ELO (cobre DUO e a pauta de marketing) | vídeos (4) → estáticos (1) → impressões no perfil (450) → comentários (5) → cliques no link (15) → engajados abordados pelo comercial (15) → conversas comerciais (2) → reuniões (1 a cada 2 semanas) | 4 vídeos |
+| 8 | Audiência · REC | REC 10 clientes | seguidores novos no Instagram → inscritos novos no YouTube → visualizações no YouTube → seguidores novos no LinkedIn (35) → diagnósticos iniciados (5) | aguarda os números de hoje do Instagram e do YouTube |
 
-**Metas semanais:** só a primeira etapa de cada OKR tem meta em novembro, tirada do ritmo medido em outubro. As demais etapas se preenchem com o realizado no rito semanal e ganham meta a partir das conversões medidas.
+**Metas semanais (01/11):** todas as etapas têm meta em novembro, calculadas pelo ritmo de outubro e por conversões medidas ou estimadas, para que 70% seja alcançável. No rito, lança-se o realizado e o Rito calcula a porcentagem. As conversões usadas foram: aceite ~30% (LinkedIn escritórios) e ~40% (LinkedIn REC); resposta ~25% dos aceitos; abertura de e-mail ~50%; prospect → reunião 40% (medido).
+
+**Marketing (Paulo, 01/11):** para ELO e DUO, só números que correspondem a movimento comercial, nada de vaidade. Para o REC, audiência conta ("aqui a gente quer ser influencer"): Instagram e YouTube entram, lançados à mão até haver coleta automática.
+
+**Base medida do LinkedIn (média semanal de outubro):** perfil com 342 impressões, 21 seguidores novos (32 e 44 nas duas últimas semanas) e 1 comentário (5 na última semana); página com 43 impressões e 10 cliques.
 
 **Ritmo e conversão medidos até 31/10:**
 - Escritórios: ~40 leads/semana no LinkedIn e ~50 no e-mail. Prospect → reunião: 40%. Reunião → contrato: ~5% (o gargalo).
