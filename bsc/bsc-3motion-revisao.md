@@ -152,6 +152,31 @@ Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começa
 
 ---
 
+## OKRs (passo f) — gravados em 01/11
+
+**Premissa do método (Paulo):** todo objetivo numérico tem OKR; um OKR pode cobrir mais de um objetivo. ELO e DUO têm a mesma prospecção, e quem define o produto é a reunião. Modelo: um OKR por canal e lista, com as etapas do funil como resultados-chave (o mesmo modelo da Cassys).
+
+| # | OKR (canal · lista) | Ligado a | Resultados-chave | Meta semanal de entrada em nov |
+|---|---|---|---|---|
+| 1 | LinkedIn · Escritórios (ELO e DUO) | ELO 5 clientes (cobre também DUO e Financeira) | leads qualificados → pedido de conexão → aceites → convites → respostas → reunião agendada → reunião feita → propostas → contrato | 40 leads |
+| 2 | E-mail · Escritórios (ELO e DUO) | DUO 3 clientes (cobre também ELO e Financeira) | qualificação → envios → aberturas → clique → respostas → reunião agendada → reunião feita → propostas → contrato | 50 qualificados |
+| 3 | LinkedIn · REC | REC 10 clientes | leads → conexão → aceites → mensagem → respostas → diagnóstico → venda | 50 leads |
+| 4 | E-mail (Snov.io) · REC | REC 10 clientes | qualificação → envios → aberturas → clique → respostas → diagnóstico → venda | 50 qualificados |
+| 5 | Instagram · REC | REC 10 clientes | perfis → DMs → respostas → diagnóstico → venda | 75 DMs |
+| 6 | LinkedIn · Escolas e outros nichos | Outros nichos 5 clientes | igual ao OKR 1 | 10 leads |
+
+**Metas semanais:** só a primeira etapa de cada OKR tem meta em novembro, tirada do ritmo medido em outubro. As demais etapas se preenchem com o realizado no rito semanal e ganham meta a partir das conversões medidas.
+
+**Ritmo e conversão medidos até 31/10:**
+- Escritórios: ~40 leads/semana no LinkedIn e ~50 no e-mail. Prospect → reunião: 40%. Reunião → contrato: ~5% (o gargalo).
+- REC no LinkedIn: 50 mensagens → 12 respostas (24%) na semana de 19/10; na semana de 26/10, 120 qualificados e nenhum convite enviado.
+- REC no Instagram: 155 DMs, 0 respostas.
+- Diagnósticos do REC: 26 feitos, 0 vendas.
+
+**Ainda sem OKR de movimento:** Carteira (5 clientes), os 5 objetivos da Financeira (cobertos pelos OKRs acima) e o "1 webinar por mês".
+
+---
+
 ## 5. Departamentos (passo f)
 
 - **Seus:** Financeiro (já tratado em outra sessão), Marketing, Comercial interno (a prospecção como um todo).
