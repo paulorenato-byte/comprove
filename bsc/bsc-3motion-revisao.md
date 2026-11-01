@@ -96,41 +96,43 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 
 ## 3. Processos Internos ✅
 
-Gravado em 01/11/2026 (17 ativos). Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
+Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
 
 | # | Objetivo | Prazo | Origem |
 |---|---|---|---|
-| 1 | Validar o canal de venda do REC | 15/12/2026 | reescreve "Plano de lançamento do REC" (estava patinando) |
-| 2 | Pauta de marketing que apoie as estratégias comerciais | 15/11/2026 | urgente; reescreve "Reestruturar a produção de conteúdo" |
-| 3 | Montar o pacote fechado de conteúdo e prospecção com IA | 30/11/2026 | novo (Paulo, 01/11) |
-| 4 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
-| 5 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
-| 6 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
-| 7 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
-| 8 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
-| 9 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
-| 10 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
-| 11 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
-| 12 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
-| 13 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
-| 14 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
-| 15 | Canal do YouTube com grade de programação | 15/12/2026 | novo |
-| 16 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
-| 17 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
+| 1 | Rito semanal da própria 3Motion | 30/11/2026 | novo, fundamental (Paulo, 01/11) |
+| 2 | Validar o canal de venda do REC | 15/12/2026 | reescreve "Plano de lançamento do REC" (estava patinando) |
+| 3 | Pauta de marketing que apoie as estratégias comerciais | 15/11/2026 | urgente; reescreve "Reestruturar a produção de conteúdo" |
+| 4 | Montar o pacote fechado de conteúdo e prospecção com IA | 30/11/2026 | novo (Paulo, 01/11) |
+| 5 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
+| 6 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
+| 7 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
+| 8 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
+| 9 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
+| 10 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
+| 11 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
+| 12 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
+| 13 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
+| 14 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
+| 15 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
+| 16 | Canal do YouTube com grade de programação | 15/12/2026 | novo |
+| 17 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
+| 18 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
 
 **Notas (Paulo, 01/11):**
-- **1:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão por canal, decisão de escalar ou abandonar. Sem tráfego pago. [CLAUDE] Os clientes ativos ainda não recebem oferta do REC: vale testar como 4º canal.
-- **2 (pauta de marketing, urgente):** o objetivo não é gravar vídeos, é ter uma pauta de marketing definida que apoie as estratégias comerciais: temas semanais ligados ao que está em venda, rotina fixa de gravação em lote, 80% vídeo e 20% estáticos, quadros fixos (Números da semana, Poderia ser melhor) e pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado. Tarefa no Rito: gravar o primeiro lote em 02/11.
-- **3 (pacote fechado):** preço de referência R$ 5 mil/mês, mais barato nos primeiros clientes, como piloto; operado por você com IA, sem a Laiane: planejamento estratégico, reunião semanal, 12 pautas de conteúdo por mês (pauta, produção e agendamento com IA) e prospecção de 50 leads qualificados por semana, no LinkedIn e no e-mail do próprio cliente. Uma espécie de DUO com pacote de posts fechado. Pilotos: Mello e B.Flow (contraproposta de R$ 5 mil + R$ 5 mil), Henrique (desafio de conteúdo) e o advogado vizinho no WeWork.
-- **4:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
-- **6:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
-- **8:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
-- **9:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT. Em discussão: pode ser substituído pelo pacote fechado (objetivo 2), que é mais completo e faz mais sentido.
-- **10:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
-- **11:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
-- **14:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
-- **15 (Paulo, 01/11):** um canal precisa ter programas. Grade de programação, com cada dia da semana dedicado a um programa fixo, dirigido a advogados e a negócios em geral: pequenas aulas que não substituem a compra dos produtos, série narrada e animada, cortes das 62 aulas do REC. Conversa diretamente com a pauta de marketing (objetivo 2). Visitantes e inscritos ficam em Clientes.
-- **16:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
+- **1 (rito semanal):** "santo de casa não faz milagre". Reunião semanal agendada e disciplinada: ler o BSC, lançar e ler os OKRs, conferir roadmaps e funil, decidir a semana. A mesma disciplina exigida dos clientes. Concluído quando acontecer 4 semanas seguidas.
+- **2:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão por canal, decisão de escalar ou abandonar. Sem tráfego pago. [CLAUDE] Os clientes ativos ainda não recebem oferta do REC: vale testar como 4º canal.
+- **3 (pauta de marketing, urgente):** o objetivo não é gravar vídeos, é ter uma pauta de marketing definida que apoie as estratégias comerciais: temas semanais ligados ao que está em venda, rotina fixa de gravação em lote, 80% vídeo e 20% estáticos, quadros fixos (Números da semana, Poderia ser melhor) e pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado. Tarefa no Rito: gravar o primeiro lote em 02/11.
+- **4 (pacote fechado):** preço de referência R$ 5 mil/mês, mais barato nos primeiros clientes, como piloto; operado por você com IA, sem a Laiane: planejamento estratégico, reunião semanal, 12 pautas de conteúdo por mês (pauta, produção e agendamento com IA) e prospecção de 50 leads qualificados por semana, no LinkedIn e no e-mail do próprio cliente. Uma espécie de DUO com pacote de posts fechado. Pilotos: Mello e B.Flow (contraproposta de R$ 5 mil + R$ 5 mil), Henrique (desafio de conteúdo) e o advogado vizinho no WeWork.
+- **5:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
+- **7:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
+- **9:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
+- **10:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT. Em discussão: pode ser substituído pelo pacote fechado (objetivo 2), que é mais completo e faz mais sentido.
+- **11:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
+- **12:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
+- **15:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
+- **16 (Paulo, 01/11):** um canal precisa ter programas. Grade de programação, com cada dia da semana dedicado a um programa fixo, dirigido a advogados e a negócios em geral: pequenas aulas que não substituem a compra dos produtos, série narrada e animada, cortes das 62 aulas do REC. Conversa diretamente com a pauta de marketing (objetivo 2). Visitantes e inscritos ficam em Clientes.
+- **17:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
 
 **Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; ainda sem vendas, medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
 
