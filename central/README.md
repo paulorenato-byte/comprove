@@ -27,6 +27,7 @@ Migrações: `central_frentes_diario_v1`, `central_hoje_filtra_clientes_inativos
 - [`PROTOCOLO-COWORK.md`](PROTOCOLO-COWORK.md): regra permanente para colar nas instruções do Cowork.
 - [`COMANDO-INVENTARIO-COWORK.md`](COMANDO-INVENTARIO-COWORK.md): comando único para o Cowork cadastrar as frentes dele.
 - [`REVISAO-DIARIA-PROMPT.md`](REVISAO-DIARIA-PROMPT.md): texto da rotina de revisão diária (dias úteis, 7h27).
+- [`COMANDO-ROTINA-REVISAO-COWORK.md`](COMANDO-ROTINA-REVISAO-COWORK.md): comando para o Cowork recriar a revisão diária com conectores.
 - [`inventario/`](inventario/): levantamentos para a limpeza geral.
 
 ## Consultas úteis
