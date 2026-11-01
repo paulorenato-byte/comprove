@@ -23,8 +23,8 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | a | Financeira por produto | ✅ gravado em 31/10 |
 | b | Vini e Laiane | ✅ objetivo retirado do BSC em 31/10 |
 | c | Clientes | ✅ gravado em 31/10 |
-| d | Processos Internos | **← próximo** |
-| e | Aprendizado e Crescimento | a fazer |
+| d | Processos Internos | ✅ gravado em 01/11 |
+| e | Aprendizado e Crescimento | **← próximo** |
 | f | Departamento de cada objetivo, OKRs e roadmaps | a fazer |
 
 ---
@@ -94,58 +94,42 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 
 ---
 
-## 3. Processos Internos (passo d)
+## 3. Processos Internos ✅
 
-### Frentes novas, vindas do seu backlog
+Gravado em 01/11/2026. Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
 
-| # | Objetivo | Tipo | Origem | Situação |
-|---|---|---|---|---|
-| P1 | Nova estratégia do REC: validar o canal de venda | PROCESSO | PAULO + CLAUDE | ⬜ |
-| P2 | Produção de conteúdo: 80% vídeo, 20% estático | PROCESSO | PAULO | ⬜ |
-| P3 | Expandir o canal do YouTube | PROCESSO | PAULO | ⬜ |
-| P4 | Marca 3Motion como marca-mãe, com site | PROCESSO | PAULO | ⬜ |
-| P5 | Apresentação institucional | PROCESSO | PAULO | ⬜ |
-| P6 | Novos produtos e treinamentos | PROCESSO | PAULO | ⬜ |
-| P7 | Assessoria de imprensa (teste) | PROCESSO | PAULO | ⬜ |
-| P8 | Estratégia Google | PROCESSO | PAULO | ⬜ |
-| P9 | Divisão da empresa em departamentos | PROCESSO | PAULO + RITO | 🔁 |
-| P10 | Registro de marca | PROCESSO | RITO | 🔁 |
-| P11 | Desenhar o produto de marketing (só marketing) | PROCESSO | PAULO | ⬜ |
-| P12 | Definir o produto de entrada | PROCESSO | PAULO | ⬜ |
-| P13 | Prospecção que enche a agenda a partir de dez/jan | PROCESSO | CLAUDE | ⬜ |
+| # | Objetivo | Prazo | Origem |
+|---|---|---|---|
+| 1 | Validar o canal de venda do REC | 15/12/2026 | reescreve "Plano de lançamento do REC" (estava patinando) |
+| 2 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
+| 3 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
+| 4 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
+| 5 | Reestruturar a produção de conteúdo: 80% vídeo | 31/12/2026 | novo |
+| 6 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
+| 7 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
+| 8 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
+| 9 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
+| 10 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
+| 11 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
+| 12 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
+| 13 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
+| 14 | Expandir o canal do YouTube | 31/01/2027 | novo |
+| 15 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
+| 16 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
 
-- **P1:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão medida por canal, decisão final de escalar ou abandonar. Sem tráfego pago.
-- **P2:** refazer a pauta de marketing. Pilares: palco (música), quadra (handebol), experiência como consumidor e método (técnico e curto). Casos de escritório só como tempero. **As analogias são o tema; o episódio é sempre um real que você traz. Nada inventado.** [CLAUDE] Gravação em lote (um dia a cada 15 dias) e mineração das 62 aulas do REC em vídeos longos e cortes.
-- **P3:** parte do conteúdo menos técnica, com histórias narradas e animação, no estilo do canal de aviação.
-- **P4:** COMPROVE dentro do site da 3Motion como linha jurídica, com espaço para outros nichos (B.Flow e Kuraray, clientes ativos, já provam). Pode absorver o antigo "Atualizar o site para Marketplace".
-- **P5:** mistura da apresentação para clientes com o site. Depende de P4.
-- **P6:** liderança, negócios em geral, administração do tempo. Já tem conversa paralela: integrar, não duplicar. [CLAUDE] Negociação, atendimento ao cliente, OKR para PMEs, comunicação e oratória, produtividade com IA; reativar a rede da época da franquia como canal.
-- **P7:** contatos, veículos, portfólio. [CLAUDE] Press kit, bio em 3 tamanhos (música, handebol, teatro), palestras e in company para OABs, Sebrae e associações. Pode absorver a antiga "agenda de eventos".
-- **P8:** Google Meu Negócio. [CLAUDE] Search Console, SEO dos títulos do YouTube, Google Alerts.
-- **P9:** é o antigo "Criação das áreas da empresa Comprove Treinamentos". Detalhe na seção 5.
-- **P10:** registro da marca COMPROVE precisa de prazo novo. Incluir a 3Motion?
-- **P11:** veio do antigo "MKT Estratégico" de Clientes. Já existe em Processos o objetivo "Montar o produto MKT Estratégico": reescrever.
-- **P12:** sessão de planejamento estratégico (montagem de BSC) a ~R$ 297, talvez na Hotmart. Cuidados: não vender a hora do Paulo barata nem concorrer com o REC; pode ser produto sem o Paulo ao vivo ou diagnóstico pago que leva a DUO e ELO. Na mesma decisão: o produto de entrada de R$ 3 mil/mês e o antigo "Comprove Benchmarking (BNI)".
-- **P13:** fevereiro e março pedem ~R$ 48 mil/mês em contratos novos, o que exige reuniões de venda além dos 12 ritos semanais. A agenda comercial precisa encher em dezembro e janeiro.
+**Notas (Paulo, 01/11):**
+- **1:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão por canal, decisão de escalar ou abandonar. Sem tráfego pago. [CLAUDE] Os clientes ativos ainda não recebem oferta do REC: vale testar como 4º canal.
+- **2:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
+- **4:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
+- **5:** pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado.
+- **7:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
+- **8:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT.
+- **9:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
+- **10:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
+- **13:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
+- **15:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
 
-### Objetivos antigos do Rito — destino sugerido (você decide)
-
-| Objetivo no Rito | Sugestão |
-|---|---|
-| Montar o produto MKT Estratégico | reescrever como P11 |
-| Finalizar as gravações do REC | concluir (feito) |
-| Edições do REC | concluir? (62 aulas publicadas) |
-| Desenvolver plano de lançamento do REC | substituir por P1 |
-| Lançamento do REC | concluir (lançado na Hotmart) e seguir em P1 |
-| Estudo de ferramentas | ? |
-| Criar agenda de eventos | juntar a P7 |
-| Criação das áreas da empresa | vira P9 |
-| Definir metas mensais | concluir ao fechar esta revisão |
-| Processos de onboarding, CX e CS | manter com prazo novo? |
-| Agenda de workshops e webinars | ? |
-| Registro de marca — COMPROVE | vira P10 |
-| Produto Comprove Benchmarking (BNI) | juntar a P12 |
-| Atualizar o site para Marketplace | juntar a P4 |
+**Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; ainda sem vendas, medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
 
 ---
 
