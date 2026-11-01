@@ -173,7 +173,7 @@ Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começa
 - REC no Instagram: 155 DMs, 0 respostas.
 - Diagnósticos do REC: 26 feitos, 0 vendas.
 
-**Ainda sem OKR de movimento:** Carteira (5 clientes), os 5 objetivos da Financeira (cobertos pelos OKRs acima) e o "1 webinar por mês".
+**Sem OKR próprio, por decisão do Paulo (01/11):** os 5 objetivos da Financeira e a Carteira (5 clientes). Os 6 OKRs acima já cobrem esses objetivos juntos, e os esqueletos vazios foram apagados. A Carteira é acompanhada pelo semáforo por evento (renovações) no rito.
 
 ---
 
