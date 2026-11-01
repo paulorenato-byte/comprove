@@ -74,6 +74,9 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 | C2 | ELO: 5 clientes ativos em 31/03/2027 | 🔴 vermelho | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
 | C3 | DUO: 3 clientes ativos em 31/03/2027 | 🔴 vermelho | vermelho 0 · amarelo 1 a 2 · verde 3 |
 | C4 | REC: 10 clientes até 31/03/2027 | 🔴 vermelho | vermelho até 3 · amarelo 4 a 6 · verde 7+ |
+| C5 | Outros nichos: 5 clientes fora da advocacia ativos em 31/03/2027 | 🔴 vermelho | vermelho até 1 · amarelo 2 a 3 · verde 4+ |
+
+- **C5 (Paulo, 01/11):** os 2 de hoje (B.Flow e Kuraray, que volta em janeiro) + 3 novos, de qualquer produto. Conta clientes e não amarra faturamento. Hoje há 1 ativo (B.Flow).
 
 - **C1:** Boechat, Coelho e Morello, Henrique Gaspar, Mello e B.Flow. A Cassys encerra em novembro e não conta.
 - **C2:** Braz & Santos, Reis, Kuraray + 2 novos. Reescreveu o antigo "BPO" (BPO = ELO).
@@ -85,7 +88,7 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 - **MKT Estratégico:** ainda não é produto → vai para Processos Internos (P11).
 - **Planejamento Estratégico:** produto de entrada (sessão de BSC, ~R$ 297) → vai para Processos Internos (P12).
 
-**Expansão para outros nichos já tem prova:** B.Flow (cliente hoje) e Kuraray (volta como ELO em janeiro). A Trivicta ainda é proposta.
+**Expansão para outros nichos já tem prova:** B.Flow (cliente hoje) e Kuraray (volta como ELO em janeiro). A Trivicta ainda é proposta. A meta de expansão é o C5.
 
 **Ainda sem objetivo:** audiência no YouTube (falta o número de inscritos de hoje) e visibilidade na imprensa (depois do P7).
 
