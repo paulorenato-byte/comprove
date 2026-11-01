@@ -40,6 +40,10 @@ Foco inicial: São Paulo (capital e interior), onde o Paulo atua e tem rede. Os 
 
 ## Próximas etapas
 
-- **04/11 (Paulo e Claude):** proposta institucional, com preço por licença no pacote e participação da instituição.
-- **05/11 (Claude):** lista de 30 líderes, com nome, cargo e contato, começando pelo grupo A, e cadência e textos de abordagem.
-- **06/11:** registro no Rito e os 10 primeiros contatos.
+A ordem do roadmap mudou em 01/11: primeiro a estratégia de prospecção, a lista de decisores e o braço automatizado; o preço não entra na abordagem e só aparece na reunião, com uma apresentação especial do REC para instituições.
+
+- **03/11:** estratégia de prospecção (`instituicoes-estrategia-prospeccao.md`), entregue.
+- **04/11 (Claude):** busca dos decisores e lista de 30 líderes do grupo A, com gancho.
+- **05/11 (Paulo e Claude):** lote "Instituições" na rotina de prospecção do MacBook.
+- **06/11 (Claude):** apresentação especial do REC para instituições e registro no Rito.
+- **06/11 (Paulo):** os 10 primeiros líderes contatados.
