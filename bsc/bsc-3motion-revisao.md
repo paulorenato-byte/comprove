@@ -165,7 +165,7 @@ Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começa
 | 5 | Instagram · REC | REC 10 clientes | perfis → DMs → respostas → diagnóstico → venda | 75 DMs |
 | 6 | LinkedIn · Escolas e outros nichos | Outros nichos 5 clientes | igual ao OKR 1 | 10 leads |
 | 7 | Marketing comercial · ELO e DUO | ELO (cobre DUO e a pauta de marketing) | impressões no perfil (450) → comentários (5) → cliques no link (15) → conversas comerciais (2) → reuniões (1 a cada 2 semanas) | 450 impressões |
-| 8 | Audiência · REC | REC 10 clientes | seguidores novos no Instagram (35; base 2.272 em 01/11, alvo ~3.000 em 31/03) → inscritos novos no YouTube (5) → visualizações no YouTube (100) → seguidores novos no LinkedIn (35) → diagnósticos iniciados (5) | YouTube incipiente: metas de partida, sobem quando a grade entrar no ar (15/12) |
+| 8 | Audiência · REC | REC 10 clientes | seguidores novos no Instagram (35; base 2.272 em 01/11, alvo ~3.000 em 31/03) → inscritos novos no YouTube (10) → visualizações no YouTube (100) → seguidores novos no LinkedIn (35) → diagnósticos iniciados (5) | YouTube incipiente: metas de partida, sobem quando a grade entrar no ar (15/12) |
 
 **Metas semanais (01/11):** todas as etapas têm meta em novembro, calculadas pelo ritmo de outubro e por conversões medidas ou estimadas, para que 70% seja alcançável. O realizado de cada semana é buscado e lançado pela rotina do Cowork, nunca à mão pelo Paulo; o Rito calcula a porcentagem e o rito lê o resultado. As conversões usadas foram: aceite ~30% (LinkedIn escritórios) e ~40% (LinkedIn REC); resposta ~25% dos aceitos; abertura de e-mail ~50%; prospect → reunião 40% (medido).
 
