@@ -25,7 +25,7 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | c | Clientes | ✅ gravado em 31/10 |
 | d | Processos Internos | ✅ gravado em 01/11 |
 | e | Aprendizado e Crescimento | ✅ gravado em 01/11 |
-| f | Departamento de cada objetivo, OKRs e roadmaps | **← próximo** |
+| f | OKRs e roadmaps | ✅ gravados em 01/11 (falta o departamento dono, que é o objetivo 8 de Processos) |
 
 ---
 
@@ -96,59 +96,45 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 
 ## 3. Processos Internos ✅
 
-Gravado em 01/11/2026 (18 ativos). Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
+**Regra (Paulo, 01/11):** cada objetivo SMART de processo é um roadmap. A última etapa de cada roadmap é a meta final do objetivo. Todos começam vermelhos. As etapas, com prazo e responsável, estão no Rito.
 
-| # | Objetivo | Prazo | Origem |
-|---|---|---|---|
-| 1 | Rito semanal da própria 3Motion | 30/11/2026 | novo, fundamental (Paulo, 01/11) |
-| 2 | Validar o canal de venda do REC | 15/12/2026 | reescreve "Plano de lançamento do REC" (estava patinando) |
-| 3 | Pauta de marketing que apoie as estratégias comerciais | 15/11/2026 | urgente; reescreve "Reestruturar a produção de conteúdo" |
-| 4 | Montar o pacote fechado de conteúdo e prospecção com IA | 30/11/2026 | novo (Paulo, 01/11) |
-| 5 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
-| 6 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
-| 7 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
-| 8 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
-| 9 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
-| 10 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
-| 11 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
-| 12 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
-| 13 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
-| 14 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
-| 15 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
-| 16 | Canal do YouTube com grade de programação | 15/12/2026 | novo |
-| 17 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
-| 18 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
+| # | Objetivo SMART | Roadmap |
+|---|---|---|
+| 1 | Realizar o rito semanal da 3Motion toda segunda às 19h, lendo BSC, OKRs, roadmaps e funil, por 4 semanas seguidas, até 30/11/2026 | 6 etapas · 2 concluídas |
+| 2 | Testar a venda do REC em LinkedIn, e-mail e Instagram com uma nova promessa, medir a conversão de cada canal e decidir escalar ou abandonar cada um até 15/12/2026 | 10 etapas |
+| 3 | Ter a pauta de marketing aprovada e rodando, com tema semanal ligado às ofertas comerciais, gravação de vídeos a cada 15 dias e a primeira semana publicada, até 15/11/2026 | 7 etapas |
+| 4 | Ter o pacote fechado de conteúdo e prospecção com IA pronto para vender, com escopo, preço e proposta definidos e operação testada, até 20/11/2026 | 6 etapas |
+| 5 | Definir as metas mensais de faturamento e de clientes de novembro a março e fazer o fechamento de cada mês no Rito até o 5º dia útil do mês seguinte, com o fechamento de novembro lido no rito de 07/12/2026 | 4 etapas |
+| 6 | Ter o perfil da 3Motion no Google Meu Negócio verificado e completo, com 4 posts publicados, avaliações pedidas a 5 clientes e o Search Console configurado no site, até 30/11/2026 | 7 etapas |
+| 7 | Ter o calendário de webinars e workshops de novembro a março, com um evento por mês, e realizar o evento de novembro até 30/11/2026 | 6 etapas · evento de novembro = sala aberta do REC (27/11) |
+| 8 | Definir os departamentos da 3Motion, cada um com responsável e rotina, e atribuir um departamento dono a cada objetivo do BSC até 31/12/2026 | 5 etapas |
+| 9 | Desenhar o processo de experiência do cliente (onboarding, CX e CS) e aplicá-lo no primeiro cliente novo de ELO ou DUO até 31/01/2027 | 6 etapas · piloto possível na Braz & Santos |
+| 10 | Decidir se o COMPROVE MKT existe como produto próprio ou é substituído pelo pacote fechado e, se existir, ter escopo, preço e proposta prontos até 31/01/2027 | 6 etapas |
+| 11 | Lançar o COMPROVE Benchmarking, uma rede de escritórios com mensalidade e encontros quinzenais, com a primeira turma aberta e o primeiro encontro marcado até 28/02/2027 | 6 etapas |
+| 12 | Ter a esteira de produtos da 3Motion documentada até 31/01/2027, com produto, público, preço e ordem de compra, incluindo os produtos para outros nichos, o produto de entrada e os novos treinamentos | 6 etapas |
+| 13 | Ter o calendário de eventos do setor de novembro a março, com inscrição em pelo menos 2 eventos como participante ou palestrante, até 31/12/2026 | 5 etapas |
+| 14 | Ter o press kit pronto, uma lista de 30 veículos e jornalistas com contato e 10 pautas enviadas pela assessoria de imprensa feita com o Claude até 31/01/2027 | 6 etapas |
+| 15 | Colocar no ar o site 3motion.com.br como marketplace dos produtos da 3Motion, com o COMPROVE em destaque, até 28/02/2027 | 6 etapas |
+| 16 | Colocar no ar o canal do YouTube com grade de programação semanal, um programa fixo por dia para advogados e negócios, e publicar 2 semanas seguidas conforme a grade até 15/12/2026 | 6 etapas |
+| 17 | Protocolar no INPI os pedidos de registro das marcas COMPROVE e 3Motion até 31/12/2026 | 6 etapas |
+| 18 | Ter a apresentação institucional da 3Motion pronta, juntando a apresentação do COMPROVE para clientes e o conteúdo do site, e usá-la em pelo menos 1 reunião até 31/03/2027 | 6 etapas |
 
-**Notas (Paulo, 01/11):**
-- **1 (rito semanal):** segundas às 19h, Paulo e Claude; evento recorrente criado na agenda a partir de 09/11; roadmap de 6 etapas gravado (2 concluídas). "santo de casa não faz milagre". Reunião semanal agendada e disciplinada: ler o BSC, lançar e ler os OKRs, conferir roadmaps e funil, decidir a semana. A mesma disciplina exigida dos clientes. Concluído quando acontecer 4 semanas seguidas.
-- **2:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão por canal, decisão de escalar ou abandonar. Sem tráfego pago. [CLAUDE] Os clientes ativos ainda não recebem oferta do REC: vale testar como 4º canal. **Roadmap gravado em 01/11 (10 etapas)**, a partir da análise de especialista de 27/10 e da medição de 01/11: diagnóstico do funil → disparos sem parar até zerar as filas (162 no LinkedIn, 171 no Instagram) → diagnóstico invertido e título do site → nova promessa e separação de público (16+ pessoas vão para DUO) → base quente → LinkedIn e e-mail em paralelo com conversa humana e Meta Ads só em remarketing → sala aberta antes de 30/11 → Instagram com nova promessa → leitura por canal (07/12) → decisão (15/12).
-- **3 (pauta de marketing, urgente):** o objetivo não é gravar vídeos, é ter uma pauta de marketing definida que apoie as estratégias comerciais: temas semanais ligados ao que está em venda, rotina fixa de gravação em lote, 80% vídeo e 20% estáticos, quadros fixos (Números da semana, Poderia ser melhor) e pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado. Tarefa no Rito: gravar o primeiro lote em 02/11.
-- **4 (pacote fechado):** preço de referência R$ 5 mil/mês, mais barato nos primeiros clientes, como piloto; operado por você com IA, sem a Laiane: planejamento estratégico, reunião semanal, 12 pautas de conteúdo por mês (pauta, produção e agendamento com IA) e prospecção de 50 leads qualificados por semana, no LinkedIn e no e-mail do próprio cliente. Uma espécie de DUO com pacote de posts fechado. Pilotos: Mello e B.Flow (contraproposta de R$ 5 mil + R$ 5 mil), Henrique (desafio de conteúdo) e o advogado vizinho no WeWork.
-- **5:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
-- **7:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
-- **9:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
-- **10:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT. Em discussão: pode ser substituído pelo pacote fechado (objetivo 2), que é mais completo e faz mais sentido.
-- **11:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
-- **12:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
-- **15:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
-- **16 (Paulo, 01/11):** um canal precisa ter programas. Grade de programação, com cada dia da semana dedicado a um programa fixo, dirigido a advogados e a negócios em geral: pequenas aulas que não substituem a compra dos produtos, série narrada e animada, cortes das 62 aulas do REC. Conversa diretamente com a pauta de marketing (objetivo 2). Visitantes e inscritos ficam em Clientes.
-- **17:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
+**Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; vendas medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
 
-**Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; ainda sem vendas, medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
+**Rito semanal:** evento recorrente "Reunião 3Motion – Método COMPROVE" na agenda, toda segunda das 19h às 20h, a partir de 09/11. Participantes: Paulo e Claude.
 
 ---
 
 ## 4. Aprendizado e Crescimento ✅
 
-**Regra:** Processos é o que a empresa faz; Aprendizado e Crescimento é a capacidade que a empresa tem (pessoas, competências, rede).
+**Regra:** Processos é o que a empresa faz; Aprendizado e Crescimento é a capacidade que ela tem (pessoas, competências, rede).
 
-| # | Objetivo | Prazo | Situação |
-|---|---|---|---|
-| A1 | Rede de afiliados e parceiros de venda | 31/03/2027 | ✅ gravado 01/11 (reescreveu "Construção de uma equipe de vendas") |
+| # | Objetivo SMART | Roadmap |
+|---|---|---|
+| A1 | Ter a rede de afiliados e parceiros de venda da 3Motion com o modelo de comissionamento definido e 3 parceiros ativos, com pelo menos 1 venda, até 31/03/2027 | 6 etapas |
 
-- **A1:** parceiros externos que vendem os produtos da 3Motion, com comissionamento sobre vendas. Modelo desenhado por você, a partir da sua experiência com venda em rede; inclui reativar a rede da época da franquia.
 - **Apagado em 01/11:** "Capacitação da equipe em Tráfego Pago".
-- **Não virou objetivo:** "operação com IA". Ela já está em tudo o que a empresa faz (decisão do Paulo).
+- **Não virou objetivo:** "operação com IA", porque já está em tudo o que a empresa faz (decisão do Paulo).
 
 ---
 
