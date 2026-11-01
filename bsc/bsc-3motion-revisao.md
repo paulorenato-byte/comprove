@@ -114,7 +114,7 @@ Gravado em 01/11/2026 (17 ativos). Todos são PROCESSO (viram roadmap) e começa
 | 12 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
 | 13 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
 | 14 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
-| 15 | Expandir o canal do YouTube | 31/01/2027 | novo |
+| 15 | Canal do YouTube com grade de programação | 15/12/2026 | novo |
 | 16 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
 | 17 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
 
@@ -129,6 +129,7 @@ Gravado em 01/11/2026 (17 ativos). Todos são PROCESSO (viram roadmap) e começa
 - **10:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
 - **11:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
 - **14:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
+- **15 (Paulo, 01/11):** um canal precisa ter programas. Grade de programação, com cada dia da semana dedicado a um programa fixo, dirigido a advogados e a negócios em geral: pequenas aulas que não substituem a compra dos produtos, série narrada e animada, cortes das 62 aulas do REC. Conversa diretamente com a pauta de marketing (objetivo 2). Visitantes e inscritos ficam em Clientes.
 - **16:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
 
 **Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; ainda sem vendas, medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
