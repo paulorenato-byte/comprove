@@ -24,8 +24,8 @@ Atualizado em 31/10/2026. **Este é o documento único da revisão.** Toda ideia
 | b | Vini e Laiane | ✅ objetivo retirado do BSC em 31/10 |
 | c | Clientes | ✅ gravado em 31/10 |
 | d | Processos Internos | ✅ gravado em 01/11 |
-| e | Aprendizado e Crescimento | **← próximo** |
-| f | Departamento de cada objetivo, OKRs e roadmaps | a fazer |
+| e | Aprendizado e Crescimento | ✅ gravado em 01/11 |
+| f | Departamento de cada objetivo, OKRs e roadmaps | **← próximo** |
 
 ---
 
@@ -96,50 +96,56 @@ Retirado em 31/10: "Vini e Laiane com faturamento próprio" (R$ 10 mil/mês cada
 
 ## 3. Processos Internos ✅
 
-Gravado em 01/11/2026. Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
+Gravado em 01/11/2026 (17 ativos). Todos são PROCESSO (viram roadmap) e começam vermelhos. Cada um tem um roadmap aguardando desenho.
 
 | # | Objetivo | Prazo | Origem |
 |---|---|---|---|
 | 1 | Validar o canal de venda do REC | 15/12/2026 | reescreve "Plano de lançamento do REC" (estava patinando) |
-| 2 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
-| 3 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
-| 4 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
-| 5 | Reestruturar a produção de conteúdo: 80% vídeo | 31/12/2026 | novo |
-| 6 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
-| 7 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
-| 8 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
-| 9 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
-| 10 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
-| 11 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
-| 12 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
-| 13 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
-| 14 | Expandir o canal do YouTube | 31/01/2027 | novo |
-| 15 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
-| 16 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
+| 2 | Montar o pacote fechado de conteúdo e prospecção com IA | 30/11/2026 | novo (Paulo, 01/11) |
+| 3 | Rotina mensal de metas e medição | 30/11/2026 | reescreve "Definir metas mensais" |
+| 4 | Google Meu Negócio e estratégia Google | 30/11/2026 | novo |
+| 5 | Agenda de webinars e workshops: 1 por mês | 30/11/2026 | mantém, com prazo novo |
+| 6 | Reestruturar a produção de conteúdo: 80% vídeo | 31/12/2026 | novo |
+| 7 | Dividir a empresa em departamentos | 31/12/2026 | reescreve "Criação das áreas" |
+| 8 | Processo de experiência do cliente: onboarding, CX e CS | 31/01/2027 | mantém, com prazo novo |
+| 9 | Montar o produto COMPROVE MKT | 31/01/2027 | reescreve "Montar o produto MKT Estratégico" |
+| 10 | Lançar o COMPROVE Benchmarking | 28/02/2027 | reescreve "Definir o produto Benchmarking (BNI)" |
+| 11 | Revisar e montar a esteira de produtos da 3Motion | 31/01/2027 | novo |
+| 12 | Agenda de eventos para participar | 31/12/2026 | mantém, com prazo novo |
+| 13 | Assessoria de imprensa com o Claude | 31/01/2027 | novo |
+| 14 | Site da 3Motion como marketplace | 28/02/2027 | reescreve "Site para Marketplace" |
+| 15 | Expandir o canal do YouTube | 31/01/2027 | novo |
+| 16 | Registrar as marcas COMPROVE e 3Motion no INPI | 31/12/2026 | reescreve "Registro de marca" |
+| 17 | Apresentação institucional da 3Motion | 31/03/2027 | novo |
 
 **Notas (Paulo, 01/11):**
+- **2 (pacote fechado):** ~R$ 3 mil/mês, operado por você com IA, sem a Laiane: planejamento estratégico, reunião semanal, 12 pautas de conteúdo por mês (pauta, produção e agendamento com IA) e prospecção de 50 leads qualificados por semana, no LinkedIn e no e-mail do próprio cliente. Uma espécie de DUO com pacote de posts fechado. Pilotos: Mello (contraproposta), Henrique (desafio de conteúdo) e o advogado vizinho no WeWork. Pode ser o produto de entrada de R$ 3 mil/mês que estava sem decisão.
 - **1:** 3 canais, 14 dias cada (quiz diagnóstico, e-mail frio pelo Snov.io, conexões do LinkedIn), conversão por canal, decisão de escalar ou abandonar. Sem tráfego pago. [CLAUDE] Os clientes ativos ainda não recebem oferta do REC: vale testar como 4º canal.
-- **2:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
-- **4:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
-- **5:** pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado.
-- **7:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
-- **8:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT.
-- **9:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
-- **10:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
-- **13:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
-- **15:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
+- **3:** meta aqui é meta de verdade (faturamento e número de clientes por mês), não objetivo SMART. Precisa de uma rotina que não deixe esquecer de medir.
+- **5:** webinars e workshops são ponto de venda de todos os produtos e geram autoridade. Hoje não acontecem com disciplina. A contagem mensal pode virar resultado-chave no passo (f).
+- **6:** pilares palco (música), quadra (handebol), experiência como consumidor e método. As analogias são o tema; os episódios são reais, trazidos por você. Nada inventado.
+- **8:** já existe o rito com os clientes; falta um processo de experiência do cliente de verdade.
+- **9:** só marketing, sem comercial: produção de conteúdo e redes com IA, no mesmo modelo da nossa pauta. Nome provisório: MKT.
+- **10:** networking entre escritórios, com mensalidade e ritual quinzenal. O desenho já existe.
+- **11:** inclui os produtos para outros nichos (estudo em andamento no Cowork), o produto de entrada (sessão de planejamento estratégico a ~R$ 297, talvez na Hotmart) e os novos treinamentos (liderança, negócios, gestão do tempo).
+- **14:** 3motion.com.br (domínio já registrado), com o COMPROVE em destaque.
+- **16:** o estudo prévio está no Cowork. Fazer sozinho também exige orçamento para as taxas.
 
 **Concluídos em 01/11:** Finalizar as gravações do REC · Edições do REC · Lançamento do REC (lançado; ainda sem vendas, medidas em Financeira e Clientes) · Estudo de ferramentas (Supabase, Calendly e Claude).
 
 ---
 
-## 4. Aprendizado e Crescimento (passo e)
+## 4. Aprendizado e Crescimento ✅
 
-**Hoje no Rito (🔁):** Capacitação da equipe em Tráfego Pago · Construção de uma equipe de vendas.
+**Regra:** Processos é o que a empresa faz; Aprendizado e Crescimento é a capacidade que a empresa tem (pessoas, competências, rede).
 
-| # | Objetivo | Tipo | Origem | Situação |
-|---|---|---|---|---|
-| A1 | Papel de cada pessoa nos departamentos | PROCESSO | PAULO | ⬜ |
+| # | Objetivo | Prazo | Situação |
+|---|---|---|---|
+| A1 | Rede de afiliados e parceiros de venda | 31/03/2027 | ✅ gravado 01/11 (reescreveu "Construção de uma equipe de vendas") |
+
+- **A1:** parceiros externos que vendem os produtos da 3Motion, com comissionamento sobre vendas. Modelo desenhado por você, a partir da sua experiência com venda em rede; inclui reativar a rede da época da franquia.
+- **Apagado em 01/11:** "Capacitação da equipe em Tráfego Pago".
+- **Não virou objetivo:** "operação com IA". Ela já está em tudo o que a empresa faz (decisão do Paulo).
 
 ---
 
