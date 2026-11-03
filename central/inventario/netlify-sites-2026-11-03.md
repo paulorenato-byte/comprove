@@ -22,4 +22,4 @@ Lido pela API do Netlify, com a página inicial de cada site conferida no ar. A 
 
 - `moonlit-daffodil-9581b8` e `polite-stroopwafel-3397c6`: "Comprove Base", versões antigas da página de produto.
 - `comprove-webinar-julho2026`: página do webinar de 29/07.
-- **BSC da Kuraray em 3 endereços abertos:** `inspiring-pastelito-6d8783`, `kuraray-bsc-2026` e `kuraray-bsc-bus`. Têm conteúdo estratégico do cliente. Não pus senha porque podem ter sido compartilhados com a Kuraray, e a senha cortaria o acesso deles.
+- **BSC da Kuraray:** `inspiring-pastelito-6d8783`, `kuraray-bsc-2026` e `kuraray-bsc-bus` **foram trancados com senha em 03/11**, porque o Paulo confirmou que nenhum BSC é compartilhado com o cliente. Conferido: os três devolvem 401.

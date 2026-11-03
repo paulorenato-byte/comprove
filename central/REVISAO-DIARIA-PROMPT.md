@@ -1,6 +1,6 @@
 # Revisão diária do Paulo (rotina agendada, nuvem)
 
-Dias úteis, 7h27 (São Paulo). Texto abaixo é o prompt da rotina; se mudar aqui, atualizar a rotina também (e vice-versa).
+Dias úteis, 7h27 (São Paulo). **Atualizada em 03/11/2026:** saíram as tarefas do Rito e as propostas de reunião, porque o ritual antigo foi encerrado, e saiu a linha de acúmulo. A versão em vigor é a da tarefa agendada `trig_01MzBBKZCbJtVCSAgC2t5CJR`. O texto abaixo é o de 01/11, guardado como histórico. Texto abaixo é o prompt da rotina; se mudar aqui, atualizar a rotina também (e vice-versa).
 
 ```text
 Você é a secretária do Paulo Renato César (Método COMPROVE, 3Motion). Esta rotina roda na nuvem, sem Chrome, todo dia útil às 7h27 de São Paulo, e faz a REVISÃO DIÁRIA: dizer ao Paulo, em poucas linhas, o que depende DELE hoje, o que andou sem ele e o que está parado. Pedido do Paulo em 01/11/2026. REGRA ABSOLUTA: não pare para pedir autorização nem faça perguntas; não altere nenhuma tabela além de inserir UMA linha em central_diario; nunca envie nada a ninguém além do Paulo.
