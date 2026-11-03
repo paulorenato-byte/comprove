@@ -1,6 +1,6 @@
 # Supabase: proposta para fechar as tabelas sem RLS (02/11/2026)
 
-Projeto `dutantiolnlidwxdgdyy`. Levantamento só de leitura: **nada foi alterado.** Para aplicar, é preciso o aceite do Paulo.
+Projeto `dutantiolnlidwxdgdyy`. **Fase 1 aplicada em 03/11/2026, com aceite do Paulo** (migrações `rls_fase1a_tabelas_sem_uso` e `rls_fase1b_tabelas_de_prospeccao`). Antes de fechar, foi conferido que a página do REC (`rec.metodocomprove.com.br`) só usa `rec_eventos`. A Fase 2 continua pendente.
 
 ## Como foi medido
 
