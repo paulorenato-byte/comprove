@@ -20,6 +20,8 @@ where o.apelido = '<APELIDO>' and c.ordem_manual = <n>;
 3. Ao terminar, marcar a etapa no Rito: `update roadmap_checkpoints set status='completo', comprovado_em=now(), descricao = descricao || ' · Entregue em dd/mm: <onde está>' where id = '<id>';`
 4. Registrar em `central_diario` (agente 'code') o que foi feito.
 
+**Comandos que chegaram pelo WhatsApp:** o Paulo também pode mandar `VAI <OBJETIVO> <n>` por texto ou áudio. A função `whatsapp-webhook` não interpreta esses comandos; o banco marca a mensagem com `projeto='bsc'`, responde ao Paulo que recebeu e deixa na fila. No começo de cada conversa com o Paulo, ler `select * from bsc_fila_comandos order by criado_em;` e executar o que estiver lá. Depois de executar: `update whatsapp_inbound set processada=true, processada_em=now(), resposta='[executado] <resumo>' where id='<inbound_id>';` e avisar o Paulo com `select li_enviar_whatsapp('bsc_comando_feito', '<mensagem de uma linha, até 790 caracteres, sem emoji, sem travessão e sem ponto e vírgula>', 1);`.
+
 Apelidos: RITO, REC, INSTITUICOES, PAUTA, PACOTE, METAS, GOOGLE, WEBINAR, DEPARTAMENTOS, CLIENTE, MKT, BENCHMARKING, ESTEIRA, EVENTOS, IMPRENSA, SITE, YOUTUBE, MARCAS, APRESENTACAO, AFILIADOS.
 
 ## Onde está o BSC
