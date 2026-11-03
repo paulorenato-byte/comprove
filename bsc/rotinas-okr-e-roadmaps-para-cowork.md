@@ -53,7 +53,7 @@ where s.key_result_id = k.id
 
 ## Rotina 2: construção dos roadmaps do BSC
 
-> **Substituída em 03/11 (Paulo):** a rotina que vale é a chamada diária. Toda noite de domingo a quinta, às 18h37, o banco manda no WhatsApp do Paulo as etapas que vencem no próximo dia útil e as vencidas (função `bsc_etapas_amanha_3motion()`, job `bsc-etapas-amanha-3motion`). Paulo e Claude executam juntos numa conversa. O texto abaixo fica só como referência.
+> **Substituída em 03/11 (Paulo):** a rotina que vale é a chamada diária. Toda noite de domingo a quinta, às 18h37, o banco manda no WhatsApp do Paulo as etapas que vencem no próximo dia útil e as vencidas (função `bsc_etapas_amanha_3motion()`, job `bsc-etapas-amanha-3motion`). Paulo e Claude executam juntos numa conversa. Desde 03/11 cada etapa chega numa mensagem própria (até 4 por dia), com a sugestão de execução escrita pelo Claude com antecedência e guardada na tabela `bsc_etapa_sugestoes` (55 etapas até 30/11). O texto abaixo fica só como referência.
 
 **O que faz:** executa as etapas dos roadmaps que estão com o Claude, para que os 20 objetivos de processo andem sem depender de uma conversa aberta.
 
