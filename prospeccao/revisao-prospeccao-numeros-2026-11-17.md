@@ -32,7 +32,18 @@ Total: 175 DMs, 1 resposta (negativa), 0 diagnósticos. No site, a origem `ig-pr
 
 ### REC · E-mail (Snov.io)
 
-- **Quantidade enviada: sem dado.** O Snov.io não grava envios no banco.
+Números lidos pelo Cowork no painel do Snov.io em 17/11 e passados pelo Paulo:
+
+| Campanha | Período | Contatados | E-mails | Respostas | "Tenho interesse" | Diagnósticos (Q3) |
+|---|---|---|---|---|---|---|
+| Turma Fundadora · Diagnóstico (3201865) | 20/10 a 02/11 | 3.244 | 7.535 | 9 | 0 | 12 (E1: 9, E2: 3) |
+| Base webinar 29/07 (3202265) | out | 44 | 45 | 0 | 0 | 0 |
+| Retorno A, B, C e D | desde 03/11 | 371 | 371 | 1 | 0 | 0 |
+
+- Em outubro, 0,12% dos e-mails tiveram resposta (9 de 7.535). Por pessoa contatada, foram 0,37% em diagnóstico (12 de 3.244), 1 reunião (LRA) e 0 vendas.
+- Em novembro foram 371 e-mails, 1 resposta e 0 diagnósticos. Os 361 cliques (96 a 99%) são de robô, o que bate com o padrão de Q5.
+- Aberturas e cliques não servem como sinal: o E2 marca aberturas igual a entregues (2.292). Só a resposta e o diagnóstico são confiáveis.
+- No Snov não há campanha do Elo. Os e-mails do Elo saem da caixa do Paulo.
 - Diagnósticos vindos do e-mail: E1 deu 9 (1 deles de ex-cliente) e E2 deu 3, todos entre 21 e 29/10, somando **12 de 24** (Q3).
 - Negócios no funil: 4. Desses, 3 responderam, 1 chegou a reunião (LRA, aberta) e 2 foram perdidos (Q6).
 - **Retorno A/B/C (03/11):** foram 875 "visitas" à página entre 11h e 15h31 do mesmo dia, todas com sessão única e nenhum evento depois (Q5). É o padrão de robô de segurança de e-mail, então não conta como clique de gente. Depois de 03/11 o e-mail gerou **0 diagnósticos** e 0 checkouts (Q3, Q4).
@@ -70,7 +81,7 @@ Total: 175 DMs, 1 resposta (negativa), 0 diagnósticos. No site, a origem `ig-pr
 ## 3. Recomendação
 
 ### Manter
-- **E-mail, REC e Elo.** É o único canal com reunião desde outubro (2 de 2) e deu metade dos diagnósticos (12 de 24). Antes de renovar o Snov.io (prazo de 18/11), puxar do painel os envios e as respostas de E1, E2 e Retorno A a D. Hoje esse número falta no banco.
+- **E-mail, REC e Elo.** É o único canal com reunião desde outubro (2 de 2) e deu metade dos diagnósticos (12 de 24). No Snov, porém, foram 7.535 e-mails para 9 respostas e 0 vendas. **Só vale renovar o Snov.io (prazo de 18/11) se o e-mail passar a pedir diagnóstico ou conversa.** Como está hoje, no Retorno A a D (371 e-mails, 1 resposta, 0 diagnósticos), não vale.
 - **LinkedIn REC, 1º e 2º grau, para gerar diagnóstico.** O 2G 01 teve 59% de aceite e deu 4 diagnósticos `li-prosp`. O 1G 01 teve só 1 resposta, mas houve 3 diagnósticos `li-dm` entre 06 e 09/11, logo depois da msg1 de 05/11. Isso é proximidade de data, não prova de origem. Manter, desde que os FU saiam.
 
 ### Cortar
@@ -82,6 +93,21 @@ Total: 175 DMs, 1 resposta (negativa), 0 diagnósticos. No site, a origem `ig-pr
 1. **Destravar a cadência pós-diagnóstico e fazer contato pessoal do Paulo** com os 9 diagnósticos de ticket ≥ R$ 30 mil, oferecendo uma conversa (Elo), não o curso. Número: 24 diagnósticos e 0 vendas, com 6 de 6 de novembro no passo 0.
 2. **E-mail de retorno com link para o diagnóstico** em vez da página de vendas, em teste A/B sobre o mesmo público. Número: 12 contra 0 diagnósticos.
 3. **Duas semanas só de execução no LinkedIn:** zerar FU1 e FU2 vencidos e conferir os aceites do Elo antes de abrir lote novo. Medir as positivas por cada 100 aceites. Número de partida: 2 em 98 no REC 2G 01.
+
+## 4. O REC (atualização de 17/11, depois dos números do Snov)
+
+Conclusão do Paulo: o REC é um produto que se vende em reunião, não por compra direta. Os números confirmam:
+- Compra direta: 7.535 e-mails, 175 mensagens no Instagram, 196 sessões vindas do Meta Ads e 24 diagnósticos, com **0 vendas**. Houve 4 eventos de checkout em todo o período (Q4).
+- O pouco que andou passou por conversa: a LRA saiu de um e-mail do REC, virou reunião e está aberta (Q7b).
+
+Proposta para o comando diário do Cowork, com o REC dentro da nova estrutura:
+1. **Parar a aquisição de compra direta** do REC: Instagram, Retorno A a D com link para a página de vendas e anúncio levando ao checkout.
+2. **O diagnóstico vira a porta de entrada de uma conversa,** não da página de vendas. O resultado do diagnóstico oferece agendar uma conversa, e a cadência pós-diagnóstico chama para a conversa.
+3. **Separar pela régua do ticket médio:** quem informou ticket de R$ 30 mil ou mais conversa sobre o Elo; os demais conversam sobre o REC. Primeira lista para testar: os 24 diagnósticos que já existem (9 de um lado e 15 do outro).
+4. **Prospecção de LinkedIn e e-mail com um único pedido:** fazer o diagnóstico ou agendar a conversa.
+5. **Medir por semana:** conversas agendadas, conversas feitas e vendas. Abertura e clique deixam de contar.
+
+O estudo de 03/11 (`claude/ESTUDO-retroativo-estrategias-rec-2026-11-03.md`, no projeto do Cowork) não pôde ser lido daqui. Só se conhece o resumo do central_diario, id 56: escada com evento de entrada "Planejamento Comercial do Escritório" (R$ 797, 870 ou 997), 13 estratégias e teste de 30 dias. Ficaram para o Paulo decidir o preço do REC, a Laiane e o Vini na conversa de venda, a garantia de 15 dias e o formulário de aplicação no DUO e no Elo. A fusão do estudo com estes números ficou registrada como frente com a bola no Cowork.
 
 ## Apêndice · consultas
 
